@@ -5,7 +5,7 @@ public class Player : MonoBehaviour
     public Rigidbody2D rb;
 
     [Header("Health")]
-    [SerializeField] private int maxHealth = 5;
+    public int maxHealth = 5;
 
     [Header("Movement")]
     private float movement;

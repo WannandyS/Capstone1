@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 1a79de42405792941a8ae7aba898f07d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5780151918745788497
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_0
+  - first:
+      213: -6816313073758445160
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_1
+  - first:
+      213: 4030568480925975593
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_2
+  - first:
+      213: 3101450928309656655
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_3
+  - first:
+      213: 677122437732902079
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_4
+  - first:
+      213: -8175076203803610452
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_5
+  - first:
+      213: -5508121564317195624
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_6
+  - first:
+      213: 65206400586281574
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_7
+  - first:
+      213: 3385298843572874476
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_8
+  - first:
+      213: -3982978359412448851
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_9
+  - first:
+      213: 5971861783806036958
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_10
+  - first:
+      213: -6679872216969243839
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_11
+  - first:
+      213: -1379183963694729675
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_12
+  - first:
+      213: -8071705990464571323
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_13
+  - first:
+      213: -383116145622866458
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_14
+  - first:
+      213: 511059853233046191
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_15
+  - first:
+      213: 899457140336936478
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_16
+  - first:
+      213: -8316794128585575362
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_17
+  - first:
+      213: 2848814114440893724
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_18
+  - first:
+      213: -1802541586632909697
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_19
+  - first:
+      213: -7643236384175269928
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_20
+  - first:
+      213: 5263051832486194690
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_21
+  - first:
+      213: 7890090250511699298
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_22
+  - first:
+      213: -8714527351821610409
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_23
+  - first:
+      213: 1550970681570322637
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_24
+  - first:
+      213: 4913213595364346697
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_25
+  - first:
+      213: -1358172290105991707
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_26
+  - first:
+      213: -4183930417781916064
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_27
+  - first:
+      213: -8245710717024098509
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_28
+  - first:
+      213: 7943828595191933718
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_29
+  - first:
+      213: -8897419142805657459
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_30
+  - first:
+      213: 3181896021730512183
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_31
+  - first:
+      213: 6526595821589519072
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_32
+  - first:
+      213: -517244458601350523
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_33
+  - first:
+      213: 4089005751032177605
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_34
+  - first:
+      213: -6476876911427649814
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_35
+  - first:
+      213: 3192791782073828754
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_36
+  - first:
+      213: -3770520990951120814
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_37
+  - first:
+      213: -6136689476187291156
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_38
+  - first:
+      213: -5972806786543347036
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_39
+  - first:
+      213: -5831979163555093698
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_40
+  - first:
+      213: 3513098692974425671
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_41
+  - first:
+      213: -6022790893804577562
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_42
+  - first:
+      213: -5965793883255107678
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_43
+  - first:
+      213: -5413091073747921621
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_44
+  - first:
+      213: 7597418228528783449
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_45
+  - first:
+      213: 7918495252796211290
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_46
+  - first:
+      213: -3266343161171342388
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_47
+  - first:
+      213: -7015665651183948093
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_48
+  - first:
+      213: 7732660891147933206
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_49
+  - first:
+      213: 6762011677325841499
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_50
+  - first:
+      213: -7911479213388680615
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_51
+  - first:
+      213: 7988819057435563699
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_52
+  - first:
+      213: 2898891059499909429
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_53
+  - first:
+      213: -8003801141936513015
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_54
+  - first:
+      213: 8686158161775688754
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_55
+  - first:
+      213: 2116910049745055744
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_56
+  - first:
+      213: -8974773801358998035
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_57
+  - first:
+      213: 86930231795444643
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_58
+  - first:
+      213: -4723623916939635151
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_59
+  - first:
+      213: -1563610584799094918
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_60
+  - first:
+      213: -6946295989711689258
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_61
+  - first:
+      213: -7958858429917008349
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_62
+  - first:
+      213: -939705689162549138
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_63
+  - first:
+      213: -6509486240518624699
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_64
+  - first:
+      213: -4854940549120341381
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_65
+  - first:
+      213: -8387500390483111283
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_66
+  - first:
+      213: -7861959090572432433
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_67
+  - first:
+      213: 6514360074644383062
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_68
+  - first:
+      213: 6350253700621193046
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_69
+  - first:
+      213: -6918461413620044337
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_70
+  - first:
+      213: 7323120533081592902
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_71
+  - first:
+      213: 4662181806582527871
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_72
+  - first:
+      213: 5001531066127659444
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_73
+  - first:
+      213: 6520906345344218892
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_74
+  - first:
+      213: 1907953999916777204
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_75
+  - first:
+      213: -719674037678406341
+    second: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150a2a8ab89373050800000000000000
+      internalID: 5780151918745788497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e6c0bf579761a0800000000000000
+      internalID: -6816313073758445160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248a74bda47fe730800000000000000
+      internalID: 4030568480925975593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd336ef219a0b20800000000000000
+      internalID: 3101450928309656655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb42482054f956900800000000000000
+      internalID: 677122437732902079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2798c818b4c8e80800000000000000
+      internalID: -8175076203803610452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892643bde983f83b0800000000000000
+      internalID: -5508121564317195624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662f60830e8a7e000800000000000000
+      internalID: 65206400586281574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca3b5bc5ffafe20800000000000000
+      internalID: 3385298843572874476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1272be84e99b8c0800000000000000
+      internalID: -3982978359412448851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4d7fe6a050e250800000000000000
+      internalID: 5971861783806036958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431c823c935c43a0800000000000000
+      internalID: -6679872216969243839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 06cc5685743674e46acad8ee38e2f8d1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":22.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_0: 5780151918745788497
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_1: -6816313073758445160
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_10: 5971861783806036958
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_11: -6679872216969243839
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_2: 4030568480925975593
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_3: 3101450928309656655
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_4: 677122437732902079
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_5: -8175076203803610452
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_6: -5508121564317195624
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_7: 65206400586281574
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_8: 3385298843572874476
+      PC _ Computer - Die in the Dungeon_ Origins - Effects - Poison_9: -3982978359412448851
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

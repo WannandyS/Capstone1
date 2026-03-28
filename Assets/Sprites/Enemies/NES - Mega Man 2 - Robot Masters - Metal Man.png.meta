@@ -1,0 +1,2678 @@
+fileFormatVersion: 2
+guid: b41ded6123bf05843a42f5c6541ab0c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3066203983388358900
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_0
+  - first:
+      213: 5443206770920352344
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_1
+  - first:
+      213: -2079503750381462348
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_2
+  - first:
+      213: 1832038258390215966
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_3
+  - first:
+      213: 3595582315482546221
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_4
+  - first:
+      213: 9093371107600583818
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_5
+  - first:
+      213: -7233011152568745168
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_6
+  - first:
+      213: 2965500827425540756
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_7
+  - first:
+      213: 5975255885742412238
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_8
+  - first:
+      213: 2130411343340945368
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_9
+  - first:
+      213: -509921667505216849
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_10
+  - first:
+      213: 4774896384575010187
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_11
+  - first:
+      213: 105019610115430589
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_12
+  - first:
+      213: 1081232319545913526
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_13
+  - first:
+      213: 255658557390306142
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_14
+  - first:
+      213: 2933076193829138478
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_15
+  - first:
+      213: -8247953646762242740
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_16
+  - first:
+      213: 3517062468229368162
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_17
+  - first:
+      213: -7293508710509599089
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_18
+  - first:
+      213: 3545492772840508723
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_19
+  - first:
+      213: 5385621662335126064
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_20
+  - first:
+      213: -4111673817513069092
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_21
+  - first:
+      213: -3268720720931610461
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_22
+  - first:
+      213: -6443591860163469714
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_23
+  - first:
+      213: -5934749794628829043
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_24
+  - first:
+      213: -7687120402511444022
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_25
+  - first:
+      213: -4126483911305243910
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_26
+  - first:
+      213: -2002746917553705672
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_27
+  - first:
+      213: -4115890477164834109
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_28
+  - first:
+      213: -5666421229455266946
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_29
+  - first:
+      213: -677698898385544581
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_30
+  - first:
+      213: -5596145104856505792
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_31
+  - first:
+      213: -307223564191468520
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_32
+  - first:
+      213: -2093440712041809065
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_33
+  - first:
+      213: -5277391535071224402
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_34
+  - first:
+      213: -5939032210093021537
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_35
+  - first:
+      213: -3450917781541011196
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_36
+  - first:
+      213: -8766243865047211038
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_37
+  - first:
+      213: -2873802975121540580
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_38
+  - first:
+      213: 370128448799036100
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_39
+  - first:
+      213: 3752411599497423972
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_40
+  - first:
+      213: 2705389441451146235
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_41
+  - first:
+      213: 6626602532508718738
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_42
+  - first:
+      213: -6013904043111931638
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_43
+  - first:
+      213: 7693234862393551285
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_44
+  - first:
+      213: -2373605599738223404
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_45
+  - first:
+      213: 3188355923078320924
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_46
+  - first:
+      213: -723203097298410298
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_47
+  - first:
+      213: -903301768724629620
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_48
+  - first:
+      213: 2921446373243792091
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_49
+  - first:
+      213: -3617667951333070350
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_50
+  - first:
+      213: 7556343492502215717
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_51
+  - first:
+      213: 7219080162179861302
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_52
+  - first:
+      213: 3880121017715915306
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_53
+  - first:
+      213: -387038301150621518
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_54
+  - first:
+      213: 8071350023071944826
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_55
+  - first:
+      213: 5018650950709284573
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_56
+  - first:
+      213: 529802086359505265
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_57
+  - first:
+      213: 7172993463577011072
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_58
+  - first:
+      213: -820038767213242921
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_59
+  - first:
+      213: 6603677889167912275
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_60
+  - first:
+      213: 5080231420220669395
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_61
+  - first:
+      213: -5920199412265612551
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_62
+  - first:
+      213: 1241279085637594360
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_63
+  - first:
+      213: -4255265549617774586
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_64
+  - first:
+      213: -3344789986901959955
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_65
+  - first:
+      213: 1796606800699981261
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_66
+  - first:
+      213: 2837756219502182825
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_67
+  - first:
+      213: 2864492730865560990
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_68
+  - first:
+      213: 7141612276691841698
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_69
+  - first:
+      213: -3271436283709673278
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_70
+  - first:
+      213: 7209259663796677972
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_71
+  - first:
+      213: 3462436247263068445
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_72
+  - first:
+      213: 5211437054533561080
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_73
+  - first:
+      213: 4226208722946177292
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_74
+  - first:
+      213: 6874421303799149522
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_75
+  - first:
+      213: -4754136156331791461
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_76
+  - first:
+      213: -7551943158896930216
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_77
+  - first:
+      213: -8834477857222612418
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_78
+  - first:
+      213: 1518571934145278093
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_79
+  - first:
+      213: -2839974685289144993
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_80
+  - first:
+      213: 5679561404616309143
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_81
+  - first:
+      213: 4771803051497041921
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_82
+  - first:
+      213: 3537028476908730171
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_83
+  - first:
+      213: -7797306149371045594
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_84
+  - first:
+      213: -4077322048398638955
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_85
+  - first:
+      213: -8959724174997387469
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_86
+  - first:
+      213: 7707170421934454401
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_87
+  - first:
+      213: -3748520777492581116
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_88
+  - first:
+      213: 8860339355923789501
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_89
+  - first:
+      213: -25379007344605531
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_90
+  - first:
+      213: -1293842094324364158
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_91
+  - first:
+      213: -8431176633979244570
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_92
+  - first:
+      213: 4179623664415199761
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_93
+  - first:
+      213: -4764068226310201682
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_94
+  - first:
+      213: -5132033169734308496
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_95
+  - first:
+      213: -681176510478057001
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_96
+  - first:
+      213: -8569812101359272678
+    second: NES - Mega Man 2 - Robot Masters - Metal Man_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07cf39f8b7a275d0800000000000000
+      internalID: -3066203983388358900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a65b308b72a8b40800000000000000
+      internalID: 5443206770920352344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc9b615b5e1423e0800000000000000
+      internalID: -2079503750381462348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_3
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d2646e615bc6910800000000000000
+      internalID: 1832038258390215966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208303d01316e130800000000000000
+      internalID: 3595582315482546221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 150
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4557f7d4223e70800000000000000
+      internalID: 9093371107600583818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 150
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03383bacdae2f9b90800000000000000
+      internalID: -7233011152568745168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 150
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a83d76a43972920800000000000000
+      internalID: 2965500827425540756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11dbfd19f5ce250800000000000000
+      internalID: 5975255885742412238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfbc4154ddb09d10800000000000000
+      internalID: 2130411343340945368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2a311f1f46ce8f0800000000000000
+      internalID: -509921667505216849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85f3e996f6d34240800000000000000
+      internalID: 4774896384575010187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 156
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8516b67ca157100800000000000000
+      internalID: 105019610115430589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 156
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0b436e01f410f00800000000000000
+      internalID: 1081232319545913526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bb9097a184c8300800000000000000
+      internalID: 255658557390306142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 140
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e203758124164b820800000000000000
+      internalID: 2933076193829138478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d49d89bd1698d80800000000000000
+      internalID: -8247953646762242740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 140
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2698baf3ead1fc030800000000000000
+      internalID: 3517062468229368162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 140
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86abdf687048ca90800000000000000
+      internalID: -7293508710509599089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8fde54ee143130800000000000000
+      internalID: 3545492772840508723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a422e1e529dba40800000000000000
+      internalID: 5385621662335126064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 148
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5fbd2927660f6c0800000000000000
+      internalID: -4111673817513069092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0a9ee92db23a2d0800000000000000
+      internalID: -3268720720931610461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 117
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e9b51c753c396a0800000000000000
+      internalID: -6443591860163469714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d808354618883ada0800000000000000
+      internalID: -5934749794628829043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7c5a6d8bcd15590800000000000000
+      internalID: -7687120402511444022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25947eeb8cbb6c0800000000000000
+      internalID: -4126483911305243910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 140
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83de33c1a40d434e0800000000000000
+      internalID: -2002746917553705672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c25d2efa6b61e6c0800000000000000
+      internalID: -4115890477164834109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_29
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 117
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b269ee9e3dc51b0800000000000000
+      internalID: -5666421229455266946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a5e0941745896f0800000000000000
+      internalID: -677698898385544581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ac714daf7652b0800000000000000
+      internalID: -5596145104856505792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 113
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814fcbdcbc58cbbf0800000000000000
+      internalID: -307223564191468520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b386093ca92f2e0800000000000000
+      internalID: -2093440712041809065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 113
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead1d631c50f2c6b0800000000000000
+      internalID: -5277391535071224402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f966dc7dba1549da0800000000000000
+      internalID: -5939032210093021537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4014b2abf80eb10d0800000000000000
+      internalID: -3450917781541011196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e96976ab085680800000000000000
+      internalID: -8766243865047211038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a7b619b633e18d0800000000000000
+      internalID: -2873802975121540580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_39
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2dee7fcd5f22500800000000000000
+      internalID: 370128448799036100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6917f77e331430800000000000000
+      internalID: 3752411599497423972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb9ccfc597b8520800000000000000
+      internalID: 2705389441451146235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d2e1e4eb66fb50800000000000000
+      internalID: 6626602532508718738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012705c2225a8ca0800000000000000
+      internalID: -6013904043111931638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b96e9ac85cd3ca60800000000000000
+      internalID: 7693234862393551285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4a9be68424f0fd0800000000000000
+      internalID: -2373605599738223404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c139894c1d05f3c20800000000000000
+      internalID: 3188355923078320924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 101
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e01d5d9aa6f5f0800000000000000
+      internalID: -723203097298410298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87bf26c3d3d673f0800000000000000
+      internalID: -903301768724629620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaac8b7fff0b8820800000000000000
+      internalID: 2921446373243792091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_50
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92a7d5a267bcdc0800000000000000
+      internalID: -3617667951333070350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 101
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdd670f568dd860800000000000000
+      internalID: 7556343492502215717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bcccfb8235f2460800000000000000
+      internalID: 7219080162179861302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 85
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afb720285f8d530800000000000000
+      internalID: 3880121017715915306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0527937b6f0aaf0800000000000000
+      internalID: -387038301150621518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 85
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705b070512330070800000000000000
+      internalID: 8071350023071944826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 85
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde04b02374d5a540800000000000000
+      internalID: 5018650950709284573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_57
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 85
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17918b6c03c3a5700800000000000000
+      internalID: 529802086359505265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083e4bc0d879b8360800000000000000
+      internalID: 7172993463577011072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 93
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d594320613ae94f0800000000000000
+      internalID: -820038767213242921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 92
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d64fa6d0af4ab50800000000000000
+      internalID: 6603677889167912275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 62
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf70b7f8b908640800000000000000
+      internalID: 5080231420220669395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_62
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa8e68400a37dda0800000000000000
+      internalID: -5920199412265612551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcec8670c8e93110800000000000000
+      internalID: 1241279085637594360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_64
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600431a278242f4c0800000000000000
+      internalID: -4255265549617774586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deadc667a3be491d0800000000000000
+      internalID: -3344789986901959955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 62
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf5cccd54dee810800000000000000
+      internalID: 1796606800699981261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 62
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1459e1f3cb16720800000000000000
+      internalID: 2837756219502182825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d2ee446f8b0c720800000000000000
+      internalID: 2864492730865560990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_69
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a239cb178a1c1360800000000000000
+      internalID: 7141612276691841698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_70
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0392468068992d0800000000000000
+      internalID: -3271436283709673278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d272ac77f6c0460800000000000000
+      internalID: 7209259663796677972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_72
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 58
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d114d8f0c6b0d0030800000000000000
+      internalID: 3462436247263068445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 58
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae7c4c36eb25840800000000000000
+      internalID: 5211437054533561080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c093ddd217286aa30800000000000000
+      internalID: 4226208722946177292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d37359e0c9d66f50800000000000000
+      internalID: 6874421303799149522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_76
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba004ba5ae50eb0800000000000000
+      internalID: -4754136156331791461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 46
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852d10a75bb123790800000000000000
+      internalID: -7551943158896930216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 46
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a21382231a56580800000000000000
+      internalID: -8834477857222612418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d807b9cd02d031510800000000000000
+      internalID: 1518571934145278093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_80
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d1d3012126698d0800000000000000
+      internalID: -2839974685289144993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7997c22810bd1de40800000000000000
+      internalID: 5679561404616309143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1003b9ed799d83240800000000000000
+      internalID: 4771803051497041921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f596e8ac061130800000000000000
+      internalID: 3537028476908730171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_84
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 46
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62915c97e576ac390800000000000000
+      internalID: -7797306149371045594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 46
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590c45613317a67c0800000000000000
+      internalID: -4077322048398638955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 46
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370dcf555aa8a380800000000000000
+      internalID: -8959724174997387469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 46
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186fcc61aae55fa60800000000000000
+      internalID: 7707170421934454401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053260a6349afbc0800000000000000
+      internalID: -3748520777492581116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 46
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6304b33bf36fa70800000000000000
+      internalID: 8860339355923789501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 46
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a609726de5d5aff0800000000000000
+      internalID: -25379007344605531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c495468795b0ee0800000000000000
+      internalID: -1293842094324364158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe71d85817efa80800000000000000
+      internalID: -8431176633979244570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112d8440491010a30800000000000000
+      internalID: 4179623664415199761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae1e057031a2edb0800000000000000
+      internalID: -4764068226310201682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_95
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de676d50b57c8b0800000000000000
+      internalID: -5132033169734308496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_96
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 35
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d18d9f9299fb86f0800000000000000
+      internalID: -681176510478057001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man 2 - Robot Masters - Metal Man_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 226
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df2a27c49e11980800000000000000
+      internalID: -8569812101359272678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Mega Man 2 - Robot Masters - Metal Man_0: -3066203983388358900
+      NES - Mega Man 2 - Robot Masters - Metal Man_1: 5443206770920352344
+      NES - Mega Man 2 - Robot Masters - Metal Man_10: -509921667505216849
+      NES - Mega Man 2 - Robot Masters - Metal Man_11: 4774896384575010187
+      NES - Mega Man 2 - Robot Masters - Metal Man_12: 105019610115430589
+      NES - Mega Man 2 - Robot Masters - Metal Man_13: 1081232319545913526
+      NES - Mega Man 2 - Robot Masters - Metal Man_14: 255658557390306142
+      NES - Mega Man 2 - Robot Masters - Metal Man_15: 2933076193829138478
+      NES - Mega Man 2 - Robot Masters - Metal Man_16: -8247953646762242740
+      NES - Mega Man 2 - Robot Masters - Metal Man_17: 3517062468229368162
+      NES - Mega Man 2 - Robot Masters - Metal Man_18: -7293508710509599089
+      NES - Mega Man 2 - Robot Masters - Metal Man_19: 3545492772840508723
+      NES - Mega Man 2 - Robot Masters - Metal Man_2: -2079503750381462348
+      NES - Mega Man 2 - Robot Masters - Metal Man_20: 5385621662335126064
+      NES - Mega Man 2 - Robot Masters - Metal Man_21: -4111673817513069092
+      NES - Mega Man 2 - Robot Masters - Metal Man_22: -3268720720931610461
+      NES - Mega Man 2 - Robot Masters - Metal Man_23: -6443591860163469714
+      NES - Mega Man 2 - Robot Masters - Metal Man_24: -5934749794628829043
+      NES - Mega Man 2 - Robot Masters - Metal Man_25: -7687120402511444022
+      NES - Mega Man 2 - Robot Masters - Metal Man_26: -4126483911305243910
+      NES - Mega Man 2 - Robot Masters - Metal Man_27: -2002746917553705672
+      NES - Mega Man 2 - Robot Masters - Metal Man_28: -4115890477164834109
+      NES - Mega Man 2 - Robot Masters - Metal Man_29: -5666421229455266946
+      NES - Mega Man 2 - Robot Masters - Metal Man_3: 1832038258390215966
+      NES - Mega Man 2 - Robot Masters - Metal Man_30: -677698898385544581
+      NES - Mega Man 2 - Robot Masters - Metal Man_31: -5596145104856505792
+      NES - Mega Man 2 - Robot Masters - Metal Man_32: -307223564191468520
+      NES - Mega Man 2 - Robot Masters - Metal Man_33: -2093440712041809065
+      NES - Mega Man 2 - Robot Masters - Metal Man_34: -5277391535071224402
+      NES - Mega Man 2 - Robot Masters - Metal Man_35: -5939032210093021537
+      NES - Mega Man 2 - Robot Masters - Metal Man_36: -3450917781541011196
+      NES - Mega Man 2 - Robot Masters - Metal Man_37: -8766243865047211038
+      NES - Mega Man 2 - Robot Masters - Metal Man_38: -2873802975121540580
+      NES - Mega Man 2 - Robot Masters - Metal Man_39: 370128448799036100
+      NES - Mega Man 2 - Robot Masters - Metal Man_4: 3595582315482546221
+      NES - Mega Man 2 - Robot Masters - Metal Man_40: 3752411599497423972
+      NES - Mega Man 2 - Robot Masters - Metal Man_41: 2705389441451146235
+      NES - Mega Man 2 - Robot Masters - Metal Man_42: 6626602532508718738
+      NES - Mega Man 2 - Robot Masters - Metal Man_43: -6013904043111931638
+      NES - Mega Man 2 - Robot Masters - Metal Man_44: 7693234862393551285
+      NES - Mega Man 2 - Robot Masters - Metal Man_45: -2373605599738223404
+      NES - Mega Man 2 - Robot Masters - Metal Man_46: 3188355923078320924
+      NES - Mega Man 2 - Robot Masters - Metal Man_47: -723203097298410298
+      NES - Mega Man 2 - Robot Masters - Metal Man_48: -903301768724629620
+      NES - Mega Man 2 - Robot Masters - Metal Man_49: 2921446373243792091
+      NES - Mega Man 2 - Robot Masters - Metal Man_5: 9093371107600583818
+      NES - Mega Man 2 - Robot Masters - Metal Man_50: -3617667951333070350
+      NES - Mega Man 2 - Robot Masters - Metal Man_51: 7556343492502215717
+      NES - Mega Man 2 - Robot Masters - Metal Man_52: 7219080162179861302
+      NES - Mega Man 2 - Robot Masters - Metal Man_53: 3880121017715915306
+      NES - Mega Man 2 - Robot Masters - Metal Man_54: -387038301150621518
+      NES - Mega Man 2 - Robot Masters - Metal Man_55: 8071350023071944826
+      NES - Mega Man 2 - Robot Masters - Metal Man_56: 5018650950709284573
+      NES - Mega Man 2 - Robot Masters - Metal Man_57: 529802086359505265
+      NES - Mega Man 2 - Robot Masters - Metal Man_58: 7172993463577011072
+      NES - Mega Man 2 - Robot Masters - Metal Man_59: -820038767213242921
+      NES - Mega Man 2 - Robot Masters - Metal Man_6: -7233011152568745168
+      NES - Mega Man 2 - Robot Masters - Metal Man_60: 6603677889167912275
+      NES - Mega Man 2 - Robot Masters - Metal Man_61: 5080231420220669395
+      NES - Mega Man 2 - Robot Masters - Metal Man_62: -5920199412265612551
+      NES - Mega Man 2 - Robot Masters - Metal Man_63: 1241279085637594360
+      NES - Mega Man 2 - Robot Masters - Metal Man_64: -4255265549617774586
+      NES - Mega Man 2 - Robot Masters - Metal Man_65: -3344789986901959955
+      NES - Mega Man 2 - Robot Masters - Metal Man_66: 1796606800699981261
+      NES - Mega Man 2 - Robot Masters - Metal Man_67: 2837756219502182825
+      NES - Mega Man 2 - Robot Masters - Metal Man_68: 2864492730865560990
+      NES - Mega Man 2 - Robot Masters - Metal Man_69: 7141612276691841698
+      NES - Mega Man 2 - Robot Masters - Metal Man_7: 2965500827425540756
+      NES - Mega Man 2 - Robot Masters - Metal Man_70: -3271436283709673278
+      NES - Mega Man 2 - Robot Masters - Metal Man_71: 7209259663796677972
+      NES - Mega Man 2 - Robot Masters - Metal Man_72: 3462436247263068445
+      NES - Mega Man 2 - Robot Masters - Metal Man_73: 5211437054533561080
+      NES - Mega Man 2 - Robot Masters - Metal Man_74: 4226208722946177292
+      NES - Mega Man 2 - Robot Masters - Metal Man_75: 6874421303799149522
+      NES - Mega Man 2 - Robot Masters - Metal Man_76: -4754136156331791461
+      NES - Mega Man 2 - Robot Masters - Metal Man_77: -7551943158896930216
+      NES - Mega Man 2 - Robot Masters - Metal Man_78: -8834477857222612418
+      NES - Mega Man 2 - Robot Masters - Metal Man_79: 1518571934145278093
+      NES - Mega Man 2 - Robot Masters - Metal Man_8: 5975255885742412238
+      NES - Mega Man 2 - Robot Masters - Metal Man_80: -2839974685289144993
+      NES - Mega Man 2 - Robot Masters - Metal Man_81: 5679561404616309143
+      NES - Mega Man 2 - Robot Masters - Metal Man_82: 4771803051497041921
+      NES - Mega Man 2 - Robot Masters - Metal Man_83: 3537028476908730171
+      NES - Mega Man 2 - Robot Masters - Metal Man_84: -7797306149371045594
+      NES - Mega Man 2 - Robot Masters - Metal Man_85: -4077322048398638955
+      NES - Mega Man 2 - Robot Masters - Metal Man_86: -8959724174997387469
+      NES - Mega Man 2 - Robot Masters - Metal Man_87: 7707170421934454401
+      NES - Mega Man 2 - Robot Masters - Metal Man_88: -3748520777492581116
+      NES - Mega Man 2 - Robot Masters - Metal Man_89: 8860339355923789501
+      NES - Mega Man 2 - Robot Masters - Metal Man_9: 2130411343340945368
+      NES - Mega Man 2 - Robot Masters - Metal Man_90: -25379007344605531
+      NES - Mega Man 2 - Robot Masters - Metal Man_91: -1293842094324364158
+      NES - Mega Man 2 - Robot Masters - Metal Man_92: -8431176633979244570
+      NES - Mega Man 2 - Robot Masters - Metal Man_93: 4179623664415199761
+      NES - Mega Man 2 - Robot Masters - Metal Man_94: -4764068226310201682
+      NES - Mega Man 2 - Robot Masters - Metal Man_95: -5132033169734308496
+      NES - Mega Man 2 - Robot Masters - Metal Man_96: -681176510478057001
+      NES - Mega Man 2 - Robot Masters - Metal Man_97: -8569812101359272678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

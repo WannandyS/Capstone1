@@ -287,6 +287,7 @@ MonoBehaviour:
   targetLayer:
     serializedVersion: 2
     m_Bits: 64
+  attackCooldown: 1.5
   floatingTextPrefab: {fileID: 3250482755974317705, guid: af59fa2a11e40e34db467fe1d0a0c0d5, type: 3}
 --- !u!1 &3208057140353983232
 GameObject:

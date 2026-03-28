@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 19ea65720f0a3b245ad570e57a959ad2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1797289651848472998
+    second: swinging_scythe-correct-size-wood_0
+  - first:
+      213: 4023734436431522911
+    second: swinging_scythe-correct-size-wood_1
+  - first:
+      213: -648917799003952392
+    second: swinging_scythe-correct-size-wood_2
+  - first:
+      213: -2796020799873698721
+    second: swinging_scythe-correct-size-wood_3
+  - first:
+      213: 4597945382282952333
+    second: swinging_scythe-correct-size-wood_4
+  - first:
+      213: -4990370184107981347
+    second: swinging_scythe-correct-size-wood_5
+  - first:
+      213: 4881921718640155806
+    second: swinging_scythe-correct-size-wood_6
+  - first:
+      213: -2963822456432792348
+    second: swinging_scythe-correct-size-wood_7
+  - first:
+      213: 8027610139576864878
+    second: swinging_scythe-correct-size-wood_8
+  - first:
+      213: -6121597320831693525
+    second: swinging_scythe-correct-size-wood_9
+  - first:
+      213: 2840749643645809470
+    second: swinging_scythe-correct-size-wood_10
+  - first:
+      213: 1912885671682177358
+    second: swinging_scythe-correct-size-wood_11
+  - first:
+      213: 7417938705784989248
+    second: swinging_scythe-correct-size-wood_12
+  - first:
+      213: 2231865422073858306
+    second: swinging_scythe-correct-size-wood_13
+  - first:
+      213: 97789609319025626
+    second: swinging_scythe-correct-size-wood_14
+  - first:
+      213: 958642143701023612
+    second: swinging_scythe-correct-size-wood_15
+  - first:
+      213: 8481814714448051523
+    second: swinging_scythe-correct-size-wood_16
+  - first:
+      213: -1599961325420599768
+    second: swinging_scythe-correct-size-wood_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 439
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: -0.0013785795, y: 0.48981214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561617859ebe07e0800000000000000
+      internalID: -1797289651848472998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 438
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: -0.0013781461, y: 0.4999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ce10ab62d27d730800000000000000
+      internalID: 4023734436431522911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 433
+        width: 88
+        height: 61
+      alignment: 9
+      pivot: {x: 0.0056832056, y: 0.59168583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae0fd23b49ef6f0800000000000000
+      internalID: -648917799003952392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 423
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: 0.025203405, y: 0.74857026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54bcee75e98239d0800000000000000
+      internalID: -2796020799873698721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 283
+        width: 87
+        height: 62
+      alignment: 9
+      pivot: {x: 0.0000014908012, y: 0.99112725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e7f97d6fe2fcf30800000000000000
+      internalID: 4597945382282952333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 76
+        height: 80
+      alignment: 9
+      pivot: {x: 0.0012231125, y: 0.989373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd50b86f1c4aebab0800000000000000
+      internalID: -4990370184107981347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 256
+        width: 59
+        height: 88
+      alignment: 9
+      pivot: {x: 0.18401997, y: 1.0013778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c9fc400f110c340800000000000000
+      internalID: 4881921718640155806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 256
+        width: 59
+        height: 88
+      alignment: 9
+      pivot: {x: 0.81598, y: 0.9943161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec6ffacd236ed6d0800000000000000
+      internalID: -2963822456432792348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 139
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.98057026, y: 0.9877016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e609dccc3ecc76f60800000000000000
+      internalID: 8027610139576864878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 156
+        width: 84
+        height: 62
+      alignment: 9
+      pivot: {x: 0.9882638, y: 0.99112725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d08d99ba7bb0ba0800000000000000
+      internalID: -6121597320831693525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 172
+        width: 85
+        height: 60
+      alignment: 9
+      pivot: {x: 0.9898305, y: 0.7485705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33735dffbe5c6720800000000000000
+      internalID: 2840749643645809470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_11
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 183
+        width: 86
+        height: 61
+      alignment: 9
+      pivot: {x: 0.99135995, y: 0.5916853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49fc8c226feb8a10800000000000000
+      internalID: 1912885671682177358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 85
+        height: 61
+      alignment: 9
+      pivot: {x: 0.99714124, y: 0.520374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0466fe373ffc1f660800000000000000
+      internalID: 7417938705784989248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 63
+        width: 85
+        height: 61
+      alignment: 9
+      pivot: {x: 0.9971414, y: 0.4898125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2098035c6cd29fe10800000000000000
+      internalID: 2231865422073858306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_14
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 98
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb4f2ea12b6b5100800000000000000
+      internalID: 97789609319025626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 102
+        width: 34
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb40a53f7cd4d00800000000000000
+      internalID: 958642143701023612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_16
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 42
+        width: 48
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d7b515b8575b570800000000000000
+      internalID: 8481814714448051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swinging_scythe-correct-size-wood_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 5
+        width: 61
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82621f7c6abcbc9e0800000000000000
+      internalID: -1599961325420599768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f26ba685840141347b3a74ad38914677
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      swinging_scythe-correct-size-wood_0: -1797289651848472998
+      swinging_scythe-correct-size-wood_1: 4023734436431522911
+      swinging_scythe-correct-size-wood_10: 2840749643645809470
+      swinging_scythe-correct-size-wood_11: 1912885671682177358
+      swinging_scythe-correct-size-wood_12: 7417938705784989248
+      swinging_scythe-correct-size-wood_13: 2231865422073858306
+      swinging_scythe-correct-size-wood_14: 97789609319025626
+      swinging_scythe-correct-size-wood_15: 958642143701023612
+      swinging_scythe-correct-size-wood_16: 8481814714448051523
+      swinging_scythe-correct-size-wood_17: -1599961325420599768
+      swinging_scythe-correct-size-wood_2: -648917799003952392
+      swinging_scythe-correct-size-wood_3: -2796020799873698721
+      swinging_scythe-correct-size-wood_4: 4597945382282952333
+      swinging_scythe-correct-size-wood_5: -4990370184107981347
+      swinging_scythe-correct-size-wood_6: 4881921718640155806
+      swinging_scythe-correct-size-wood_7: -2963822456432792348
+      swinging_scythe-correct-size-wood_8: 8027610139576864878
+      swinging_scythe-correct-size-wood_9: -6121597320831693525
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

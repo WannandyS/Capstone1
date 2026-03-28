@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Stage
   - Arrow
+  - Traps
+  - Red_Gem
+  - Green_Gem
+  - Heart
   layers:
   - Default
   - TransparentFX
@@ -51,6 +55,9 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Traps
+    uniqueID: 582207379
     locked: 0
   - name: Player
     uniqueID: 2413389011

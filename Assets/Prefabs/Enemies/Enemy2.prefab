@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 7931542821534808629}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.19, y: 1.61, z: 0}
+  m_LocalPosition: {x: 0.19, y: 2.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -268,7 +268,7 @@ MonoBehaviour:
   player: {fileID: 0}
   checkPoint: {fileID: 3455419713711131727}
   size_X: 16.12
-  size_Y: 8.62
+  size_Y: 6.92
   whatIsPlayer:
     serializedVersion: 2
     m_Bits: 64
