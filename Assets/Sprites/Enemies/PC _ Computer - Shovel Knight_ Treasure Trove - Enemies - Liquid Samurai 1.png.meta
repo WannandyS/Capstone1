@@ -1,0 +1,4342 @@
+fileFormatVersion: 2
+guid: e782a87670b77b14fa9b744fad30161e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 349906740451064584
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_0
+  - first:
+      213: 299979153172392311
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_1
+  - first:
+      213: -4345489768100560062
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_2
+  - first:
+      213: 2841447430706378705
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_3
+  - first:
+      213: -1195151481649689418
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_4
+  - first:
+      213: 4887114657917968097
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_5
+  - first:
+      213: -5474333931648933319
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_6
+  - first:
+      213: 8688302496420511903
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_7
+  - first:
+      213: 7115130199013768018
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_8
+  - first:
+      213: 584690109592395016
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_9
+  - first:
+      213: -5088732251268321625
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_10
+  - first:
+      213: -5461149996508258754
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_11
+  - first:
+      213: -5210141908360188694
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_12
+  - first:
+      213: 2935664378410396343
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_13
+  - first:
+      213: 4379303187853252094
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_14
+  - first:
+      213: 6979387420731742532
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_15
+  - first:
+      213: -2220755977529811116
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_16
+  - first:
+      213: -5576593630520659800
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_17
+  - first:
+      213: -6672054992161205565
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_18
+  - first:
+      213: -258976495265024619
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_19
+  - first:
+      213: -6225413152176590297
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_20
+  - first:
+      213: -1787275511779615440
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_21
+  - first:
+      213: -9218497337841284279
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_22
+  - first:
+      213: 1251203563661200704
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_23
+  - first:
+      213: -1808985085468650258
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_24
+  - first:
+      213: -771354269547465412
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_25
+  - first:
+      213: 9213651508198686884
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_26
+  - first:
+      213: 5939606756826977083
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_27
+  - first:
+      213: -5785349793708060497
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_28
+  - first:
+      213: -254323000566667948
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_29
+  - first:
+      213: 2120018280615853849
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_30
+  - first:
+      213: 618759210343322476
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_31
+  - first:
+      213: -7121807571817904715
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_32
+  - first:
+      213: -609489488353808474
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_33
+  - first:
+      213: 1698161717972906225
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_34
+  - first:
+      213: -6995988206832116741
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_35
+  - first:
+      213: -3739662549600240056
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_36
+  - first:
+      213: 6420210549200165725
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_37
+  - first:
+      213: 4342647819761195722
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_38
+  - first:
+      213: 6714520119162109098
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_39
+  - first:
+      213: 889056460162578943
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_40
+  - first:
+      213: 7848761047706365808
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_41
+  - first:
+      213: 5882479744732448837
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_42
+  - first:
+      213: 1314744512648163210
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_43
+  - first:
+      213: 6272085116935759670
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_44
+  - first:
+      213: -7295527714439695883
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_45
+  - first:
+      213: -5222109576259351244
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_46
+  - first:
+      213: 6692954951258523803
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_47
+  - first:
+      213: 4385232253285092433
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_48
+  - first:
+      213: -8887420341155819986
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_49
+  - first:
+      213: 2697625724423914415
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_50
+  - first:
+      213: 2951651629742669570
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_51
+  - first:
+      213: -4842085151818376822
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_52
+  - first:
+      213: -4047045491911373078
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_53
+  - first:
+      213: -589505107975125162
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_54
+  - first:
+      213: 7753559622954342548
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_55
+  - first:
+      213: -7293841116544046715
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_56
+  - first:
+      213: -6927526825196599208
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_57
+  - first:
+      213: -970917334449258523
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_58
+  - first:
+      213: 2308343649389114695
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_59
+  - first:
+      213: 4155994280256740558
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_60
+  - first:
+      213: -826431457408114510
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_61
+  - first:
+      213: 9187792326992819933
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_62
+  - first:
+      213: -6725694868374392118
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_63
+  - first:
+      213: -6499337934587610613
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_64
+  - first:
+      213: -3320123664487106800
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_65
+  - first:
+      213: 135419078104193500
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_66
+  - first:
+      213: -1884971425254330918
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_67
+  - first:
+      213: -2150455767049540118
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_68
+  - first:
+      213: -6820407779226372139
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_69
+  - first:
+      213: 1644401112262086152
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_70
+  - first:
+      213: 8280681289081354838
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_71
+  - first:
+      213: -6544094154416428898
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_72
+  - first:
+      213: -6613286195922452015
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_73
+  - first:
+      213: 2207016969225422066
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_74
+  - first:
+      213: -5152098341091888183
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_75
+  - first:
+      213: 8294500998291085511
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_76
+  - first:
+      213: 1867326889012926666
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_77
+  - first:
+      213: 7518037954992995700
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_78
+  - first:
+      213: 2915331850223185174
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_79
+  - first:
+      213: -4557376568046091196
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_80
+  - first:
+      213: -1758197517214732895
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_81
+  - first:
+      213: 999062526616095741
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_82
+  - first:
+      213: 3378004049487136315
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_83
+  - first:
+      213: 4353795534485321179
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_84
+  - first:
+      213: 4873417271600565304
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_85
+  - first:
+      213: -1816358544284036804
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_86
+  - first:
+      213: 5789237966342683749
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_87
+  - first:
+      213: -1522663541317482929
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_88
+  - first:
+      213: -8175091305121131009
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_89
+  - first:
+      213: -2116146152160138655
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_90
+  - first:
+      213: -8168638507521462841
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_91
+  - first:
+      213: 27798214001919015
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_92
+  - first:
+      213: -624185062702038221
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_93
+  - first:
+      213: -650404839982483111
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_94
+  - first:
+      213: 1401367517631626197
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_95
+  - first:
+      213: 5773112881303161691
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_96
+  - first:
+      213: -7001224796963959585
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_97
+  - first:
+      213: 8196383218109510655
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_98
+  - first:
+      213: 5490107657363675975
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_99
+  - first:
+      213: 4103241409155271406
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_100
+  - first:
+      213: -2706747271529945720
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_101
+  - first:
+      213: 4918328849360923024
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_102
+  - first:
+      213: 6356034580448491536
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_103
+  - first:
+      213: 3789455679401639088
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_104
+  - first:
+      213: 4852102534887941615
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_105
+  - first:
+      213: 225676110232507128
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_106
+  - first:
+      213: 1799346130284129151
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_107
+  - first:
+      213: 6972521673589933842
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_108
+  - first:
+      213: -31533478948043640
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_109
+  - first:
+      213: -5717960793293877009
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_110
+  - first:
+      213: -8844693889114475142
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_111
+  - first:
+      213: -1758988857375445236
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_112
+  - first:
+      213: -6127287608931720465
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_113
+  - first:
+      213: 3609245749069890463
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_114
+  - first:
+      213: -9146231416491213750
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_115
+  - first:
+      213: -2941697879157319283
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_116
+  - first:
+      213: 7879736127124005859
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_117
+  - first:
+      213: 5434732705306901981
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_118
+  - first:
+      213: -2502363277186980799
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_119
+  - first:
+      213: 6199124791071252252
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_120
+  - first:
+      213: -2058531155323462925
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_121
+  - first:
+      213: 1925216489574116677
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_122
+  - first:
+      213: -1051213598823410908
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_123
+  - first:
+      213: 3416891728594006932
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_124
+  - first:
+      213: 3785162337102504192
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_125
+  - first:
+      213: 4196372339131781770
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_126
+  - first:
+      213: 2678678849967615633
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_127
+  - first:
+      213: -8487630184357636264
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_128
+  - first:
+      213: 3744546639799199873
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_129
+  - first:
+      213: -2874037358465897330
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_130
+  - first:
+      213: -3246742365264480952
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_131
+  - first:
+      213: 4223566665384165250
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_132
+  - first:
+      213: -5030587418924742508
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_133
+  - first:
+      213: -5294171104542611699
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_134
+  - first:
+      213: 4242538061896898665
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_135
+  - first:
+      213: 2190443981001162368
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_136
+  - first:
+      213: 4916061644960135897
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_137
+  - first:
+      213: -7003517823224071153
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_138
+  - first:
+      213: 5786646104687352653
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_139
+  - first:
+      213: 6924912923122205090
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_140
+  - first:
+      213: -3918836924582082346
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_141
+  - first:
+      213: 6337605403116734481
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_142
+  - first:
+      213: 8119226701360400612
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_143
+  - first:
+      213: 2547688947795503589
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_144
+  - first:
+      213: -9006893435893584430
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_145
+  - first:
+      213: -5959454792785519814
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_146
+  - first:
+      213: 1674059917404141238
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_147
+  - first:
+      213: 2043488785150094638
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_148
+  - first:
+      213: 5133023267000550928
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_149
+  - first:
+      213: 7143656665537551445
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_150
+  - first:
+      213: 3661063226633266232
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+      1_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1513
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bb919935e1bd400800000000000000
+      internalID: 349906740451064584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1513
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ecd0537db92400800000000000000
+      internalID: 299979153172392311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1513
+        width: 17
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243854d4418b1b3c0800000000000000
+      internalID: -4345489768100560062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1513
+        width: 18
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d733333269de6720800000000000000
+      internalID: 2841447430706378705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1476
+        width: 14
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc0d734f08f96fe0800000000000000
+      internalID: -1195151481649689418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1476
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee1ec963e482d340800000000000000
+      internalID: 4887114657917968097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1438
+        width: 13
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a23e1b424704b0800000000000000
+      internalID: -5474333931648933319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1439
+        width: 13
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90c840861d039870800000000000000
+      internalID: 8688302496420511903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1441
+        width: 13
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bbedae7350eb260800000000000000
+      internalID: 7115130199013768018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1398
+        width: 27
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d50fd8e8c3d1800800000000000000
+      internalID: 584690109592395016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1398
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aee31e8af03169b0800000000000000
+      internalID: -5088732251268321625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1398
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3edff833091634b0800000000000000
+      internalID: -5461149996508258754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1398
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca0d2f98bd1b7b0800000000000000
+      internalID: -5210141908360188694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1398
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba6be6c2339db820800000000000000
+      internalID: 2935664378410396343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1398
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59abbfb0966cc30800000000000000
+      internalID: 4379303187853252094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_15
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1398
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499b8a71e3cbd060800000000000000
+      internalID: 6979387420731742532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1397
+        width: 32
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f928a543a4e21e0800000000000000
+      internalID: -2220755977529811116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1357
+        width: 27
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a03c1c93a5fb92b0800000000000000
+      internalID: -5576593630520659800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1357
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c21c5ea5591863a0800000000000000
+      internalID: -6672054992161205565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1357
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957d8aef3ee76cf0800000000000000
+      internalID: -258976495265024619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1357
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7223874c8b3ea99a0800000000000000
+      internalID: -6225413152176590297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1357
+        width: 16
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d1f9434625237e0800000000000000
+      internalID: -1787275511779615440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1357
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b061f4381511080800000000000000
+      internalID: -9218497337841284279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1357
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d8ab1130b2d5110800000000000000
+      internalID: 1251203563661200704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1357
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee459a036a135e6e0800000000000000
+      internalID: -1808985085468650258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3574afe0699b45f0800000000000000
+      internalID: -771354269547465412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1276
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0cc6e0b377ddf70800000000000000
+      internalID: 9213651508198686884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339e2e30e8bd6250800000000000000
+      internalID: 5939606756826977083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_28
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d6a4c30f46bfa0800000000000000
+      internalID: -5785349793708060497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45523051496787cf0800000000000000
+      internalID: -254323000566667948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3175d461db6d10800000000000000
+      internalID: 2120018280615853849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_31
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1318
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d3063936469800800000000000000
+      internalID: 618759210343322476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1233
+        width: 39
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b54b131fb14a2d90800000000000000
+      internalID: -7121807571817904715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1184
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af26502a88aa87f0800000000000000
+      internalID: -609489488353808474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1141
+        width: 35
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f031f2d515119710800000000000000
+      internalID: 1698161717972906225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1103
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb13fecac149ee90800000000000000
+      internalID: -6995988206832116741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1102
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49208403, y: 0.03957791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84efe3789bc0a1cc0800000000000000
+      internalID: -3739662549600240056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1101
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.0737203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b9a409a7b291950800000000000000
+      internalID: 6420210549200165725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1102
+        width: 36
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.045735676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca9d790f2f244c30800000000000000
+      internalID: 4342647819761195722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1060
+        width: 38
+        height: 38
+      alignment: 9
+      pivot: {x: 0.56749225, y: 0.014998587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacfedb2974ce2d50800000000000000
+      internalID: 6714520119162109098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1060
+        width: 38
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9b14dd320965c00800000000000000
+      internalID: 889056460162578943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1060
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fe57f96966cec60800000000000000
+      internalID: 7848761047706365808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1060
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548453f3924c2a150800000000000000
+      internalID: 5882479744732448837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1020
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa9ce1b29ee3210800000000000000
+      internalID: 1314744512648163210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1019
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63768f3de2cea0750800000000000000
+      internalID: 6272085116935759670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1020
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1fdc3723411ca90800000000000000
+      internalID: -7295527714439695883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1021
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d45e022075787b0800000000000000
+      internalID: -5222109576259351244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 983
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98c47f311722ec50800000000000000
+      internalID: 6692954951258523803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 944
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc4aa10897bdc30800000000000000
+      internalID: 4385232253285092433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 901
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e83db894a89a480800000000000000
+      internalID: -8887420341155819986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 860
+        width: 28
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa34e31cd44ef6520800000000000000
+      internalID: 2697625724423914415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 58
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fb38bc48f56f820800000000000000
+      internalID: 2951651629742669570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_52
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 826
+        width: 58
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a891ca975357dccb0800000000000000
+      internalID: -4842085151818376822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 791
+        width: 58
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeec6c8319106d7c0800000000000000
+      internalID: -4047045491911373078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 44
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574dd54a38a1d7f0800000000000000
+      internalID: -589505107975125162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 751
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498510f956d2a9b60800000000000000
+      internalID: 7753559622954342548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 716
+        width: 32
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e040262217ca90800000000000000
+      internalID: -7293841116544046715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 739
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ca2c5e0b7cdf90800000000000000
+      internalID: -6927526825196599208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 716
+        width: 32
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff1e514db9682f0800000000000000
+      internalID: -970917334449258523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_59
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 716
+        width: 42
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745fd59a152e80020800000000000000
+      internalID: 2308343649389114695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_60
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 716
+        width: 48
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc124b47ce0da930800000000000000
+      internalID: 4155994280256740558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 716
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02bf5d7fce784f0800000000000000
+      internalID: -826431457408114510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 681
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd677704178918f70800000000000000
+      internalID: 9187792326992819933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 681
+        width: 37
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017b0ef2e1d8ce1d0800000000000000
+      internalID: -3320123664487106800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 681
+        width: 44
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9163e1fea11e100800000000000000
+      internalID: 135419078104193500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_67
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 681
+        width: 48
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add24f9c97c37d5e0800000000000000
+      internalID: -1884971425254330918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_68
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 681
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed62db9fdb0822e0800000000000000
+      internalID: -2150455767049540118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_69
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 643
+        width: 28
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b6e7c24b0951a0800000000000000
+      internalID: -6820407779226372139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 643
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e83a4691612d610800000000000000
+      internalID: 1644401112262086152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_71
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 643
+        width: 39
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65afaed62c3eae270800000000000000
+      internalID: 8280681289081354838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 643
+        width: 50
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e986c45e905be25a0800000000000000
+      internalID: -6544094154416428898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14c065e33e834a0800000000000000
+      internalID: -6613286195922452015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_74
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 605
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4c0ff7d36e0ae10800000000000000
+      internalID: 2207016969225422066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 605
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b6531bd11088b0800000000000000
+      internalID: -5152098341091888183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 605
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8534836bcfb1370800000000000000
+      internalID: 8294500998291085511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_77
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 562
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8962b79e31ae910800000000000000
+      internalID: 1867326889012926666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_78
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 562
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df24310bf655860800000000000000
+      internalID: 7518037954992995700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 562
+        width: 34
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d6fe62fd6557820800000000000000
+      internalID: 2915331850223185174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 562
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4448ce94822f0c0c0800000000000000
+      internalID: -4557376568046091196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 588
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad21756ca0a997e0800000000000000
+      internalID: -1758197517214732895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_82
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 562
+        width: 45
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb4b5f13126ddd00800000000000000
+      internalID: 999062526616095741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 552
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36038b19c411ee20800000000000000
+      internalID: 3378004049487136315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 552
+        width: 23
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5fda1a8f9cb6c30800000000000000
+      internalID: 4353795534485321179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 531
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c4104203bd1a340800000000000000
+      internalID: 4873417271600565304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_86
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 552
+        width: 24
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c315437078ffac6e0800000000000000
+      internalID: -1816358544284036804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7f08f141875050800000000000000
+      internalID: 5789237966342683749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_88
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 532
+        width: 17
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46455b93996edae0800000000000000
+      internalID: -1522663541317482929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 491
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5dedf75cd3c8e80800000000000000
+      internalID: -8175091305121131009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 448
+        width: 27
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6fa35940f1a2e0800000000000000
+      internalID: -2116146152160138655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_91
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 448
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2b948e8a23ae80800000000000000
+      internalID: -8168638507521462841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 448
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72489fe0452c26000800000000000000
+      internalID: 27798214001919015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 448
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3334a871ef27657f0800000000000000
+      internalID: -624185062702038221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 448
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95936a87e3c49f6f0800000000000000
+      internalID: -650404839982483111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 448
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db34302558a27310800000000000000
+      internalID: 1401367517631626197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_96
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 448
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b8e4a04973e1050800000000000000
+      internalID: 5773112881303161691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_97
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 448
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc8e482427a6de90800000000000000
+      internalID: -7001224796963959585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 447
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3f36e4c176fb170800000000000000
+      internalID: 8196383218109510655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_99
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 412
+        width: 31
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b50d793d7c03c40800000000000000
+      internalID: 5490107657363675975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 435
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea8f5c5254a1f830800000000000000
+      internalID: 4103241409155271406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_101
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 412
+        width: 39
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88523bf82b3bf6ad0800000000000000
+      internalID: -2706747271529945720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_102
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 412
+        width: 44
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099a6b2b70a614440800000000000000
+      internalID: 4918328849360923024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 412
+        width: 48
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183bb376cb253850800000000000000
+      internalID: 6356034580448491536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 412
+        width: 37
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc32deecd9d69430800000000000000
+      internalID: 3789455679401639088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 372
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5a4c54c81265340800000000000000
+      internalID: 4852102534887941615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 372
+        width: 58
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f253b00a33c12300800000000000000
+      internalID: 225676110232507128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_107
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 372
+        width: 37
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2f8ba5cf88f810800000000000000
+      internalID: 1799346130284129151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 339
+        width: 45
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174a07258f53c060800000000000000
+      internalID: 6972521673589933842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_109
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 306
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88405ccc778ff8ff0800000000000000
+      internalID: -31533478948043640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 307
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe09b1c14f8b5a0b0800000000000000
+      internalID: -5717960793293877009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 308
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757340e4c5514580800000000000000
+      internalID: -8844693889114475142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 306
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f244824f0d697e0800000000000000
+      internalID: -1758988857375445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_113
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 306
+        width: 24
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e8f8226087faa0800000000000000
+      internalID: -6127287608931720465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_114
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 307
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93466cd2ed961230800000000000000
+      internalID: 3609245749069890463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_115
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 308
+        width: 26
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cf58a4cfe021180800000000000000
+      internalID: -9146231416491213750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_116
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 306
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89de4c5d5dfc27d0800000000000000
+      internalID: -2941697879157319283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 266
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3e90d42427a5d60800000000000000
+      internalID: 7879736127124005859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_118
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 266
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf30dd99c0c6b40800000000000000
+      internalID: 5434732705306901981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_119
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a9448bd1d54dd0800000000000000
+      internalID: -2502363277186980799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_120
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 266
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9e123727b70650800000000000000
+      internalID: 6199124791071252252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_121
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 266
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fadedf12d0ae63e0800000000000000
+      internalID: -2058531155323462925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 221
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d2ac0723eb7ba10800000000000000
+      internalID: 1925216489574116677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_123
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 221
+        width: 44
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423121b2dc65961f0800000000000000
+      internalID: -1051213598823410908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_124
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 62
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493f0d67cec3b6f20800000000000000
+      internalID: 3416891728594006932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_125
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 221
+        width: 53
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001ae284719978430800000000000000
+      internalID: 3785162337102504192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_126
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 221
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82993bb8628c3a30800000000000000
+      internalID: 4196372339131781770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_127
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 176
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eeba7c8349c2520800000000000000
+      internalID: 2678678849967615633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 176
+        width: 18
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857da741151e53a80800000000000000
+      internalID: -8487630184357636264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1882d16545d47f330800000000000000
+      internalID: 3744546639799199873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_130
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 135
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c2071ff3e5d18d0800000000000000
+      internalID: -2874037358465897330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 135
+        width: 18
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f231550141f2d0800000000000000
+      internalID: -3246742365264480952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_132
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 135
+        width: 20
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7767318f1d9a30800000000000000
+      internalID: 4223566665384165250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 88
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498017b4563cf2ab0800000000000000
+      internalID: -5030587418924742508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_134
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 88
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a99d1e635786b0800000000000000
+      internalID: -5294171104542611699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_135
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 88
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968507da3e580ea30800000000000000
+      internalID: 4242538061896898665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_136
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 88
+        width: 37
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e77fbf135066e10800000000000000
+      internalID: 2190443981001162368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_137
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 88
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da75c9050c593440800000000000000
+      internalID: 4916061644960135897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_138
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 19
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cbc9065a18ece90800000000000000
+      internalID: -7003517823224071153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_139
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 88
+        width: 18
+        height: 41
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b99c629fb4e4050800000000000000
+      internalID: 5786646104687352653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 46
+        width: 27
+        height: 12
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a106332d9b3a1060800000000000000
+      internalID: 6924912923122205090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 46
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8c999749e7d99c0800000000000000
+      internalID: -3918836924582082346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_142
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 46
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1188e5b3982b3f750800000000000000
+      internalID: 6337605403116734481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_143
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 46
+        width: 13
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e80479daa94da070800000000000000
+      internalID: 8119226701360400612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 46
+        width: 17
+        height: 37
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e92a8b89953b5320800000000000000
+      internalID: 2547688947795503589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_145
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 46
+        width: 20
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde3cff326110380800000000000000
+      internalID: -9006893435893584430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_146
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 46
+        width: 17
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1505c073cb4da0800000000000000
+      internalID: -5959454792785519814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 46
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6f79510a47b3710800000000000000
+      internalID: 1674059917404141238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_148
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dad55293eeb5c10800000000000000
+      internalID: 2043488785150094638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_149
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 5
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016026527792c3740800000000000000
+      internalID: 5133023267000550928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_150
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c97ba73ed532360800000000000000
+      internalID: 7143656665537551445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai
+        1_151
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834a8b38b95bec230800000000000000
+      internalID: 3661063226633266232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6baa4c231e83f15429d62b23a7147622
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":7,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_0: 349906740451064584
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_1: 299979153172392311
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_10: -5088732251268321625
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_100: 4103241409155271406
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_101: -2706747271529945720
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_102: 4918328849360923024
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_103: 6356034580448491536
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_104: 3789455679401639088
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_105: 4852102534887941615
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_106: 225676110232507128
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_107: 1799346130284129151
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_108: 6972521673589933842
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_109: -31533478948043640
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_11: -5461149996508258754
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_110: -5717960793293877009
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_111: -8844693889114475142
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_112: -1758988857375445236
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_113: -6127287608931720465
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_114: 3609245749069890463
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_115: -9146231416491213750
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_116: -2941697879157319283
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_117: 7879736127124005859
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_118: 5434732705306901981
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_119: -2502363277186980799
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_12: -5210141908360188694
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_120: 6199124791071252252
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_121: -2058531155323462925
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_122: 1925216489574116677
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_123: -1051213598823410908
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_124: 3416891728594006932
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_125: 3785162337102504192
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_126: 4196372339131781770
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_127: 2678678849967615633
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_128: -8487630184357636264
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_129: 3744546639799199873
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_13: 2935664378410396343
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_130: -2874037358465897330
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_131: -3246742365264480952
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_132: 4223566665384165250
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_133: -5030587418924742508
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_134: -5294171104542611699
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_135: 4242538061896898665
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_136: 2190443981001162368
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_137: 4916061644960135897
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_138: -7003517823224071153
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_139: 5786646104687352653
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_14: 4379303187853252094
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_140: 6924912923122205090
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_141: -3918836924582082346
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_142: 6337605403116734481
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_143: 8119226701360400612
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_144: 2547688947795503589
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_145: -9006893435893584430
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_146: -5959454792785519814
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_147: 1674059917404141238
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_148: 2043488785150094638
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_149: 5133023267000550928
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_15: 6979387420731742532
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_150: 7143656665537551445
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_151: 3661063226633266232
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_16: -2220755977529811116
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_17: -5576593630520659800
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_18: -6672054992161205565
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_19: -258976495265024619
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_2: -4345489768100560062
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_20: -6225413152176590297
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_21: -1787275511779615440
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_22: -9218497337841284279
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_23: 1251203563661200704
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_24: -1808985085468650258
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_25: -771354269547465412
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_26: 9213651508198686884
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_27: 5939606756826977083
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_28: -5785349793708060497
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_29: -254323000566667948
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_3: 2841447430706378705
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_30: 2120018280615853849
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_31: 618759210343322476
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_32: -7121807571817904715
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_33: -609489488353808474
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_34: 1698161717972906225
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_35: -6995988206832116741
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_36: -3739662549600240056
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_37: 6420210549200165725
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_38: 4342647819761195722
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_39: 6714520119162109098
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_4: -1195151481649689418
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_40: 889056460162578943
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_41: 7848761047706365808
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_42: 5882479744732448837
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_43: 1314744512648163210
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_44: 6272085116935759670
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_45: -7295527714439695883
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_46: -5222109576259351244
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_47: 6692954951258523803
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_48: 4385232253285092433
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_49: -8887420341155819986
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_5: 4887114657917968097
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_50: 2697625724423914415
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_51: 2951651629742669570
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_52: -4842085151818376822
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_53: -4047045491911373078
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_54: -589505107975125162
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_55: 7753559622954342548
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_56: -7293841116544046715
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_57: -6927526825196599208
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_58: -970917334449258523
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_59: 2308343649389114695
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_6: -5474333931648933319
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_60: 4155994280256740558
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_61: -826431457408114510
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_62: 9187792326992819933
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_63: -6725694868374392118
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_64: -6499337934587610613
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_65: -3320123664487106800
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_66: 135419078104193500
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_67: -1884971425254330918
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_68: -2150455767049540118
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_69: -6820407779226372139
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_7: 8688302496420511903
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_70: 1644401112262086152
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_71: 8280681289081354838
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_72: -6544094154416428898
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_73: -6613286195922452015
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_74: 2207016969225422066
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_75: -5152098341091888183
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_76: 8294500998291085511
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_77: 1867326889012926666
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_78: 7518037954992995700
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_79: 2915331850223185174
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_8: 7115130199013768018
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_80: -4557376568046091196
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_81: -1758197517214732895
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_82: 999062526616095741
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_83: 3378004049487136315
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_84: 4353795534485321179
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_85: 4873417271600565304
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_86: -1816358544284036804
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_87: 5789237966342683749
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_88: -1522663541317482929
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_89: -8175091305121131009
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_9: 584690109592395016
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_90: -2116146152160138655
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_91: -8168638507521462841
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_92: 27798214001919015
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_93: -624185062702038221
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_94: -650404839982483111
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_95: 1401367517631626197
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_96: 5773112881303161691
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_97: -7001224796963959585
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_98: 8196383218109510655
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Liquid Samurai 1_99: 5490107657363675975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

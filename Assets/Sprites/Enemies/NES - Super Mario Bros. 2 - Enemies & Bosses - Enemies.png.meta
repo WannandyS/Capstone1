@@ -1,0 +1,4082 @@
+fileFormatVersion: 2
+guid: 74a0446f7a62f604980cfe8e43bafdfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3272255998642094975
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_0
+  - first:
+      213: 1980970378586653535
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_1
+  - first:
+      213: 6616762040828602566
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_2
+  - first:
+      213: 2210900829917241850
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_3
+  - first:
+      213: 5167924710732887594
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_4
+  - first:
+      213: -2861489397000326749
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_5
+  - first:
+      213: -5321908619334734715
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_6
+  - first:
+      213: 1901933902994137436
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_7
+  - first:
+      213: 6624877424836558641
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_8
+  - first:
+      213: 6963654055191011876
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_9
+  - first:
+      213: -6446019383614938546
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_10
+  - first:
+      213: -2514292069718521212
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_11
+  - first:
+      213: 8460364475578347559
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_12
+  - first:
+      213: -1284853273998295542
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_13
+  - first:
+      213: -7693065803868333052
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_14
+  - first:
+      213: 4500115529553541477
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_15
+  - first:
+      213: 7274065379780075758
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_16
+  - first:
+      213: 6750664624781246729
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_17
+  - first:
+      213: -6528729689764883715
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_18
+  - first:
+      213: 1083462649544719892
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_19
+  - first:
+      213: 8499493136045620184
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_20
+  - first:
+      213: -249008514711828852
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_21
+  - first:
+      213: 2438853159564650205
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_22
+  - first:
+      213: -5596193327025987367
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_23
+  - first:
+      213: -3021592977924001673
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_24
+  - first:
+      213: 6000239377472082387
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_25
+  - first:
+      213: 8861405556194958352
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_26
+  - first:
+      213: 8957110809248347636
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_27
+  - first:
+      213: -3062394291928761694
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_28
+  - first:
+      213: 4975082117243775619
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_29
+  - first:
+      213: 3003855362204736837
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_30
+  - first:
+      213: -8027329895709971709
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_31
+  - first:
+      213: 2463313111520434435
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_32
+  - first:
+      213: -4270196841024841198
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_33
+  - first:
+      213: 189633780694830524
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_34
+  - first:
+      213: -7248424231108066143
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_35
+  - first:
+      213: 1060993633120721573
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_36
+  - first:
+      213: -9057300392451278754
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_37
+  - first:
+      213: 2976692111397361239
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_38
+  - first:
+      213: -1861870796775134714
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_39
+  - first:
+      213: -3261680394758165353
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_40
+  - first:
+      213: -6827899138381548351
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_41
+  - first:
+      213: 7195828009505084707
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_42
+  - first:
+      213: -3946445521780586819
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_43
+  - first:
+      213: -5595810690210361300
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_44
+  - first:
+      213: 6498399657958036221
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_45
+  - first:
+      213: 4121206131727853530
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_46
+  - first:
+      213: 5151761892247222959
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_47
+  - first:
+      213: 2143875542431722388
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_48
+  - first:
+      213: -2690176979348851665
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_49
+  - first:
+      213: -8633928418214605433
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_50
+  - first:
+      213: 341554680942952732
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_51
+  - first:
+      213: -3528969757577914416
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_52
+  - first:
+      213: 166744489898346627
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_53
+  - first:
+      213: 6931942801909871524
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_54
+  - first:
+      213: 5668683067154605041
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_55
+  - first:
+      213: -1764446224833902763
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_56
+  - first:
+      213: 6623556104693332870
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_57
+  - first:
+      213: -3852457774955544235
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_58
+  - first:
+      213: 2218922795355535143
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_59
+  - first:
+      213: 105130611409243367
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_60
+  - first:
+      213: -9055473903411589379
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_61
+  - first:
+      213: -8349025786494151404
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_62
+  - first:
+      213: -1728063355730163546
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_63
+  - first:
+      213: -4329617362560757906
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_64
+  - first:
+      213: -1411071786468424969
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_65
+  - first:
+      213: -2883721086038254028
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_66
+  - first:
+      213: -4716079767907397652
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_67
+  - first:
+      213: -5016747428166317949
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_68
+  - first:
+      213: -3128724577645184942
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_69
+  - first:
+      213: -4312434729308688574
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_70
+  - first:
+      213: -735476312721706905
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_71
+  - first:
+      213: 6226286743903041317
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_72
+  - first:
+      213: -4543365149044163992
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_73
+  - first:
+      213: 4191301846004766363
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_74
+  - first:
+      213: 1675079988226844436
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_75
+  - first:
+      213: -6922599191747535474
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_76
+  - first:
+      213: -550474800227585074
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_77
+  - first:
+      213: 2947725955276262616
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_78
+  - first:
+      213: 2226693053965481924
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_79
+  - first:
+      213: 7451552176147459131
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_80
+  - first:
+      213: -440853824966804531
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_81
+  - first:
+      213: 5349327913960762487
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_82
+  - first:
+      213: -6304761586043872324
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_83
+  - first:
+      213: -2957671262692092557
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_84
+  - first:
+      213: -216380363554258429
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_85
+  - first:
+      213: 7517967175697202108
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_86
+  - first:
+      213: -2634086430388427733
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_87
+  - first:
+      213: -8754512293383250559
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_88
+  - first:
+      213: -8275526103656055464
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_89
+  - first:
+      213: -8019892637522590932
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_90
+  - first:
+      213: -8753069340095658786
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_91
+  - first:
+      213: -2998613602498421041
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_92
+  - first:
+      213: 700395465855659389
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_93
+  - first:
+      213: 8547810427946080479
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_94
+  - first:
+      213: -7567868360915986304
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_95
+  - first:
+      213: -7844924229521548283
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_96
+  - first:
+      213: 2762924900574676814
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_97
+  - first:
+      213: 7691556186573848112
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_98
+  - first:
+      213: -8537447766638843971
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_99
+  - first:
+      213: 1712613602795167562
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_100
+  - first:
+      213: 8148952742953701762
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_101
+  - first:
+      213: 9121463499636676626
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_102
+  - first:
+      213: -8518374230302731692
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_103
+  - first:
+      213: -413134603495132236
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_104
+  - first:
+      213: -7532985180599051142
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_105
+  - first:
+      213: -7371833094787427404
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_106
+  - first:
+      213: -7361923357130120953
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_107
+  - first:
+      213: -6436218482322936209
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_108
+  - first:
+      213: 5864536430552300568
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_109
+  - first:
+      213: -7993552720235486649
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_110
+  - first:
+      213: 8403520608217395955
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_111
+  - first:
+      213: 8265608259629525449
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_112
+  - first:
+      213: -5802349533501373151
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_113
+  - first:
+      213: 6739996509690720162
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_114
+  - first:
+      213: -8312138922353872467
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_115
+  - first:
+      213: 7306569725206490748
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_116
+  - first:
+      213: -256644570191550500
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_117
+  - first:
+      213: -424781952810635714
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_118
+  - first:
+      213: 2770831747368283774
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_119
+  - first:
+      213: -8671664774072735236
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_120
+  - first:
+      213: -5812065288235728348
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_121
+  - first:
+      213: -8980008757477328194
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_122
+  - first:
+      213: -71098988587080211
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_123
+  - first:
+      213: -3758841891939585071
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_124
+  - first:
+      213: 5178880319714795534
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_125
+  - first:
+      213: -4619217115030653594
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_126
+  - first:
+      213: -4681624770801894718
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_127
+  - first:
+      213: 5876479088911868532
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_128
+  - first:
+      213: -2842037292172156123
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_129
+  - first:
+      213: 8464317295744027029
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_130
+  - first:
+      213: 3043378345982055639
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_131
+  - first:
+      213: 6078055208950641933
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_132
+  - first:
+      213: -2594494295767967507
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_133
+  - first:
+      213: 2795815645932735459
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_134
+  - first:
+      213: -4959089185164252074
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_135
+  - first:
+      213: -3358908988154001055
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_136
+  - first:
+      213: 761147446626381007
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_137
+  - first:
+      213: 379571127822431894
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_138
+  - first:
+      213: 657976121497040661
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_139
+  - first:
+      213: -3241092729710748162
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_140
+  - first:
+      213: 184025611645394287
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_141
+  - first:
+      213: -8066278729094816886
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_142
+  - first:
+      213: -7478441253051616608
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_143
+  - first:
+      213: -2694489172961818376
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_144
+  - first:
+      213: -4967657399734917220
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_145
+  - first:
+      213: -8528634522700239978
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_146
+  - first:
+      213: 7363163370921617993
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_147
+  - first:
+      213: 1072714424220053955
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_148
+  - first:
+      213: 2388627739631730251
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_149
+  - first:
+      213: -2972773663535768131
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_150
+  - first:
+      213: -1669340519866135192
+    second: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cfbc2a18c9692d0800000000000000
+      internalID: -3272255998642094975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f538a3e4012dd7b10800000000000000
+      internalID: 1980970378586653535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8a0eed40673db50800000000000000
+      internalID: 6616762040828602566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 563
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af165d84792beae10800000000000000
+      internalID: 2210900829917241850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 563
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267231c42828b740800000000000000
+      internalID: 5167924710732887594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 546
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1bf33ed82f948d0800000000000000
+      internalID: -2861489397000326749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ca671be48c426b0800000000000000
+      internalID: -5321908619334734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 563
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ec32dec6056a10800000000000000
+      internalID: 1901933902994137436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f33e3faea40fb50800000000000000
+      internalID: 6624877424836558641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226e5ad77ed3a060800000000000000
+      internalID: 6963654055191011876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 529
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426958e5832b86a0800000000000000
+      internalID: -6446019383614938546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a88d21fa07b1dd0800000000000000
+      internalID: -2514292069718521212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 529
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207e256aa0496570800000000000000
+      internalID: 8460364475578347559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 512
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e75d631c84b2ee0800000000000000
+      internalID: -1284853273998295542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 529
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c19b6396dbc3590800000000000000
+      internalID: -7693065803868333052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 512
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569f1434b3f937e30800000000000000
+      internalID: 4500115529553541477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee022ca5ceba2f460800000000000000
+      internalID: 7274065379780075758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c1eda5bd2fad50800000000000000
+      internalID: 6750664624781246729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2940710fa4565a0800000000000000
+      internalID: -6528729689764883715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 478
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e34811a8b390f00800000000000000
+      internalID: 1083462649544719892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbbed899f344f570800000000000000
+      internalID: 8499493136045620184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 478
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86cd8e33185b8cf0800000000000000
+      internalID: -249008514711828852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 495
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a03be60c88d120800000000000000
+      internalID: 2438853159564650205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 478
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d06438a1d35652b0800000000000000
+      internalID: -5596193327025987367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770760712352116d0800000000000000
+      internalID: -3021592977924001673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1d8855ce1254350800000000000000
+      internalID: 6000239377472082387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 461
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5ca357690afa70800000000000000
+      internalID: 8861405556194958352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 444
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f53f0ff2dc0e4c70800000000000000
+      internalID: 8957110809248347636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 461
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaf663ed903085d0800000000000000
+      internalID: -3062394291928761694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 444
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa6b693da0b0540800000000000000
+      internalID: 4975082117243775619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 461
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9ddc6986dfa920800000000000000
+      internalID: 3003855362204736837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 444
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b655f8df1399090800000000000000
+      internalID: -8027329895709971709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309dcb649327f2220800000000000000
+      internalID: 2463313111520434435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a18b9f8963db4c0800000000000000
+      internalID: -4270196841024841198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 427
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdcab73be6b1a200800000000000000
+      internalID: 189633780694830524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4487bc09c686b90800000000000000
+      internalID: -7248424231108066143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 427
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9c13861869be00800000000000000
+      internalID: 1060993633120721573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e587febd7410e4280800000000000000
+      internalID: -9057300392451278754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 427
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7561c8144b55f4920800000000000000
+      internalID: 2976692111397361239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a6b8cff5e4926e0800000000000000
+      internalID: -1861870796775134714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c659b46fe2cb2d0800000000000000
+      internalID: -3261680394758165353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4729ec8ed6e31a0800000000000000
+      internalID: -6827899138381548351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 410
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3255b531377bcd360800000000000000
+      internalID: 7195828009505084707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db646d405b86b39c0800000000000000
+      internalID: -3946445521780586819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 393
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c209dab33dfa752b0800000000000000
+      internalID: -5595810690210361300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 393
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2db151f04fe2a50800000000000000
+      internalID: 6498399657958036221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ecc74427713930800000000000000
+      internalID: 4121206131727853530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa3ac2552cbe7740800000000000000
+      internalID: 5151761892247222959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6a45727390cd10800000000000000
+      internalID: 2143875542431722388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f247afa5a429aaad0800000000000000
+      internalID: -2690176979348851665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d0b2029df1e2880800000000000000
+      internalID: -8633928418214605433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110af43c227db400800000000000000
+      internalID: 341554680942952732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7d878e3b4960fc0800000000000000
+      internalID: -3528969757577914416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38805a8ea35605200800000000000000
+      internalID: 166744489898346627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f9275045333060800000000000000
+      internalID: 6931942801909871524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a50237353bae40800000000000000
+      internalID: 5668683067154605041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5570f77c18d6387e0800000000000000
+      internalID: -1764446224833902763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 359
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bbd122f299beb50800000000000000
+      internalID: 6623556104693332870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551459b9012598ac0800000000000000
+      internalID: -3852457774955544235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 360
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727fe29a6823bce10800000000000000
+      internalID: 2218922795355535143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec411cebbf757100800000000000000
+      internalID: 105130611409243367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe055a767e745280800000000000000
+      internalID: -9055473903411589379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415907f384d422c80800000000000000
+      internalID: -8349025786494151404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 341
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8855c988fa408e0800000000000000
+      internalID: -1728063355730163546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 341
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fc333b2fb1ae3c0800000000000000
+      internalID: -4329617362560757906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 342
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f249f6bfadda6ce0800000000000000
+      internalID: -1411071786468424969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 342
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ed26b63f6faf7d0800000000000000
+      internalID: -2883721086038254028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 341
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef097d107e1d8eb0800000000000000
+      internalID: -4716079767907397652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 341
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388ca404bcee06ab0800000000000000
+      internalID: -5016747428166317949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 342
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258bc65c2998494d0800000000000000
+      internalID: -3128724577645184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 342
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f6f7246772724c0800000000000000
+      internalID: -4312434729308688574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7603287b0301bc5f0800000000000000
+      internalID: -735476312721706905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52770182ec6386650800000000000000
+      internalID: 6226286743903041317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 317
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a355ef779b2f0c0800000000000000
+      internalID: -4543365149044163992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969d8d82de7a2a30800000000000000
+      internalID: 4191301846004766363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 317
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41760a4df541f3710800000000000000
+      internalID: 1675079988226844436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d5b7d66bcfdef90800000000000000
+      internalID: -6922599191747535474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 317
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec371a2f5125c58f0800000000000000
+      internalID: -550474800227585074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcc07b732d68e820800000000000000
+      internalID: 2947725955276262616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c73179f88dc6ee10800000000000000
+      internalID: 2226693053965481924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cee84693b396760800000000000000
+      internalID: 7451552176147459131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 300
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb3bfc28c5c1e9f0800000000000000
+      internalID: -440853824966804531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c66b25561ac3a40800000000000000
+      internalID: 5349327913960762487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 283
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9356ddbcf088a0800000000000000
+      internalID: -6304761586043872324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 283
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3755bd038ad34f6d0800000000000000
+      internalID: -2957671262692092557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028afda4334ffcf0800000000000000
+      internalID: -216380363554258429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb7a7c705f255860800000000000000
+      internalID: 7517967175697202108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246509f858d17bd0800000000000000
+      internalID: -2634086430388427733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd91bd379b18680800000000000000
+      internalID: -8754512293383250559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dbb16badc672d80800000000000000
+      internalID: -8275526103656055464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2302bb232e93b090800000000000000
+      internalID: -8019892637522590932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 266
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44c399fc9d68680800000000000000
+      internalID: -8753069340095658786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 266
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce5d6cd0d8c266d0800000000000000
+      internalID: -2998613602498421041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 249
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dee9027fd48b900800000000000000
+      internalID: 700395465855659389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 266
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd81b15cb4cef9670800000000000000
+      internalID: 8547810427946080479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885fa072d789f690800000000000000
+      internalID: -7567868360915986304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 251
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c53893afa312390800000000000000
+      internalID: -7844924229521548283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c5d7fe81e75620800000000000000
+      internalID: 2762924900574676814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 232
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e31be9995edba60800000000000000
+      internalID: 7691556186573848112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 232
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db72a055d74e48980800000000000000
+      internalID: -8537447766638843971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 234
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f9b187ffc64c710800000000000000
+      internalID: 1712613602795167562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281533f3855e61170800000000000000
+      internalID: 8148952742953701762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218198fa9b2f59e70800000000000000
+      internalID: 9121463499636676626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452d6f215c7a8c980800000000000000
+      internalID: -8518374230302731692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 198
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3304a5440444af0800000000000000
+      internalID: -413134603495132236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 215
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c9c14c3e5757790800000000000000
+      internalID: -7532985180599051142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31ab1abdcf1b990800000000000000
+      internalID: -7371833094787427404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 181
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701ab9a36b135d990800000000000000
+      internalID: -7361923357130120953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e66501465fda6a0800000000000000
+      internalID: -6436218482322936209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c386bdfc4036150800000000000000
+      internalID: 5864536430552300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 164
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a1011722311190800000000000000
+      internalID: -7993552720235486649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 181
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2f87b287d4f9470800000000000000
+      internalID: 8403520608217395955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9a0c74be655b270800000000000000
+      internalID: 8265608259629525449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1254ff867d9e97fa0800000000000000
+      internalID: -5802349533501373151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 164
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afec739d17498d50800000000000000
+      internalID: 6739996509690720162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1366190b955ac80800000000000000
+      internalID: -8312138922353872467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6e850476266560800000000000000
+      internalID: 7306569725206490748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd723388f17307cf0800000000000000
+      internalID: -256644570191550500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea9b3801fda1af0800000000000000
+      internalID: -424781952810635714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 114
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ee2423bc8f37620800000000000000
+      internalID: 2770831747368283774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9602a15de08a780800000000000000
+      internalID: -8671664774072735236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 133
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422c45bf965675fa0800000000000000
+      internalID: -5812065288235728348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebabaaafc99906380800000000000000
+      internalID: -8980008757477328194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a069b8d7630ff0800000000000000
+      internalID: -71098988587080211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d37518e639e5dbc0800000000000000
+      internalID: -3758841891939585071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00acde36341fd740800000000000000
+      internalID: 5178880319714795534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665713ee18e35efb0800000000000000
+      internalID: -4619217115030653594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cafea44317870fb0800000000000000
+      internalID: -4681624770801894718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 81
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4726a90b8927d8150800000000000000
+      internalID: 5876479088911868532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5236aa9f32e0f88d0800000000000000
+      internalID: -2842037292172156123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599840f0cbb477570800000000000000
+      internalID: 8464317295744027029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4506d2b704c3a20800000000000000
+      internalID: 3043378345982055639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0537b67207995450800000000000000
+      internalID: 6078055208950641933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de819f82f218efbd0800000000000000
+      internalID: -2594494295767967507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebcc41648bbcc620800000000000000
+      internalID: 2795815645932735459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cadc419a6cd2bb0800000000000000
+      internalID: -4959089185164252074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169c6305212c261d0800000000000000
+      internalID: -3358908988154001055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc6cd9e193209a00800000000000000
+      internalID: 761147446626381007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696b9d00ee1844500800000000000000
+      internalID: 379571127822431894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5173580ebc9912900800000000000000
+      internalID: 657976121497040661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd5d7995535503d0800000000000000
+      internalID: -3241092729710748162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d92bb915acd8200800000000000000
+      internalID: 184025611645394287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b930d9b32de0090800000000000000
+      internalID: -8066278729094816886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23b368d4d373890800000000000000
+      internalID: -7478441253051616608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8897a8f504b9ad0800000000000000
+      internalID: -2694489172961818376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a5fa2ae55f0bb0800000000000000
+      internalID: -4967657399734917220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba157961434a980800000000000000
+      internalID: -8528634522700239978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a63faf2163f2660800000000000000
+      internalID: 7363163370921617993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f219d51c03ee00800000000000000
+      internalID: 1072714424220053955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb461164c162120800000000000000
+      internalID: 2388627739631730251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd505b7a169eb6d0800000000000000
+      internalID: -2972773663535768131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d863844af45d8e0800000000000000
+      internalID: -1669340519866135192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_0: -3272255998642094975
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_1: 1980970378586653535
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_10: -6446019383614938546
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_100: 1712613602795167562
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_101: 8148952742953701762
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_102: 9121463499636676626
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_103: -8518374230302731692
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_104: -413134603495132236
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_105: -7532985180599051142
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_106: -7371833094787427404
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_107: -7361923357130120953
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_108: -6436218482322936209
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_109: 5864536430552300568
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_11: -2514292069718521212
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_110: -7993552720235486649
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_111: 8403520608217395955
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_112: 8265608259629525449
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_113: -5802349533501373151
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_114: 6739996509690720162
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_115: -8312138922353872467
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_116: 7306569725206490748
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_117: -256644570191550500
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_118: -424781952810635714
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_119: 2770831747368283774
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_12: 8460364475578347559
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_120: -8671664774072735236
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_121: -5812065288235728348
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_122: -8980008757477328194
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_123: -71098988587080211
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_124: -3758841891939585071
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_125: 5178880319714795534
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_126: -4619217115030653594
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_127: -4681624770801894718
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_128: 5876479088911868532
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_129: -2842037292172156123
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_13: -1284853273998295542
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_130: 8464317295744027029
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_131: 3043378345982055639
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_132: 6078055208950641933
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_133: -2594494295767967507
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_134: 2795815645932735459
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_135: -4959089185164252074
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_136: -3358908988154001055
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_137: 761147446626381007
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_138: 379571127822431894
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_139: 657976121497040661
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_14: -7693065803868333052
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_140: -3241092729710748162
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_141: 184025611645394287
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_142: -8066278729094816886
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_143: -7478441253051616608
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_144: -2694489172961818376
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_145: -4967657399734917220
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_146: -8528634522700239978
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_147: 7363163370921617993
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_148: 1072714424220053955
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_149: 2388627739631730251
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_15: 4500115529553541477
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_150: -2972773663535768131
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_151: -1669340519866135192
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_16: 7274065379780075758
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_17: 6750664624781246729
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_18: -6528729689764883715
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_19: 1083462649544719892
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_2: 6616762040828602566
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_20: 8499493136045620184
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_21: -249008514711828852
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_22: 2438853159564650205
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_23: -5596193327025987367
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_24: -3021592977924001673
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_25: 6000239377472082387
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_26: 8861405556194958352
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_27: 8957110809248347636
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_28: -3062394291928761694
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_29: 4975082117243775619
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_3: 2210900829917241850
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_30: 3003855362204736837
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_31: -8027329895709971709
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_32: 2463313111520434435
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_33: -4270196841024841198
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_34: 189633780694830524
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_35: -7248424231108066143
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_36: 1060993633120721573
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_37: -9057300392451278754
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_38: 2976692111397361239
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_39: -1861870796775134714
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_4: 5167924710732887594
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_40: -3261680394758165353
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_41: -6827899138381548351
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_42: 7195828009505084707
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_43: -3946445521780586819
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_44: -5595810690210361300
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_45: 6498399657958036221
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_46: 4121206131727853530
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_47: 5151761892247222959
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_48: 2143875542431722388
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_49: -2690176979348851665
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_5: -2861489397000326749
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_50: -8633928418214605433
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_51: 341554680942952732
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_52: -3528969757577914416
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_53: 166744489898346627
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_54: 6931942801909871524
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_55: 5668683067154605041
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_56: -1764446224833902763
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_57: 6623556104693332870
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_58: -3852457774955544235
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_59: 2218922795355535143
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_6: -5321908619334734715
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_60: 105130611409243367
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_61: -9055473903411589379
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_62: -8349025786494151404
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_63: -1728063355730163546
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_64: -4329617362560757906
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_65: -1411071786468424969
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_66: -2883721086038254028
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_67: -4716079767907397652
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_68: -5016747428166317949
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_69: -3128724577645184942
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_7: 1901933902994137436
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_70: -4312434729308688574
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_71: -735476312721706905
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_72: 6226286743903041317
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_73: -4543365149044163992
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_74: 4191301846004766363
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_75: 1675079988226844436
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_76: -6922599191747535474
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_77: -550474800227585074
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_78: 2947725955276262616
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_79: 2226693053965481924
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_8: 6624877424836558641
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_80: 7451552176147459131
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_81: -440853824966804531
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_82: 5349327913960762487
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_83: -6304761586043872324
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_84: -2957671262692092557
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_85: -216380363554258429
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_86: 7517967175697202108
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_87: -2634086430388427733
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_88: -8754512293383250559
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_89: -8275526103656055464
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_9: 6963654055191011876
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_90: -8019892637522590932
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_91: -8753069340095658786
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_92: -2998613602498421041
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_93: 700395465855659389
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_94: 8547810427946080479
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_95: -7567868360915986304
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_96: -7844924229521548283
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_97: 2762924900574676814
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_98: 7691556186573848112
+      NES - Super Mario Bros. 2 - Enemies & Bosses - Enemies_99: -8537447766638843971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

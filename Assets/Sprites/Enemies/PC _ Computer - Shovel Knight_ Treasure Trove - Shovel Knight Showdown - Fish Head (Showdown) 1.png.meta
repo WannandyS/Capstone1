@@ -1,0 +1,2624 @@
+fileFormatVersion: 2
+guid: d40df3cbf9836da47937892cd26049da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3157959140519277399
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_0
+  - first:
+      213: -4344338000354707035
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_1
+  - first:
+      213: 7733894929275414917
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_2
+  - first:
+      213: -8822519732318691355
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_3
+  - first:
+      213: -593282033785940139
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_4
+  - first:
+      213: -1444936753017004494
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_5
+  - first:
+      213: 2592438492007964885
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_6
+  - first:
+      213: -6853188824330865474
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_7
+  - first:
+      213: -4412805445616503404
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_8
+  - first:
+      213: 304491684888842091
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_9
+  - first:
+      213: -154627474268573996
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_10
+  - first:
+      213: -960708940571934452
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_11
+  - first:
+      213: 5525100492372590467
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_12
+  - first:
+      213: -8906857406384824098
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_13
+  - first:
+      213: -8742560648933715540
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_14
+  - first:
+      213: -626155444210882026
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_15
+  - first:
+      213: -3565798743425736210
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_16
+  - first:
+      213: -4263189018999029248
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_17
+  - first:
+      213: -4674098513900567377
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_18
+  - first:
+      213: 2992039338967825437
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_19
+  - first:
+      213: -684691882180611696
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_20
+  - first:
+      213: 12387434959829806
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_21
+  - first:
+      213: -8205420689826489824
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_22
+  - first:
+      213: 5115548114833511338
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_23
+  - first:
+      213: -7219375688765457732
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_24
+  - first:
+      213: 8039737977668483421
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_25
+  - first:
+      213: -4910390560577691144
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_26
+  - first:
+      213: -8739132432876635670
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_27
+  - first:
+      213: -1416742577850209323
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_28
+  - first:
+      213: -740410295691244842
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_29
+  - first:
+      213: -3139508189863253143
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_30
+  - first:
+      213: -7770536987839365888
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_31
+  - first:
+      213: 5907096119025124202
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_32
+  - first:
+      213: -3629903956114123981
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_33
+  - first:
+      213: -8660582184833007466
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_34
+  - first:
+      213: -4462238009146634091
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_35
+  - first:
+      213: 604915032269745211
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_36
+  - first:
+      213: 3517322481706619732
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_37
+  - first:
+      213: 2323314383289819844
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_38
+  - first:
+      213: 3446838501540787510
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_39
+  - first:
+      213: 7397900152862999759
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_40
+  - first:
+      213: 5919075015040163813
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_41
+  - first:
+      213: -7338856858079862612
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_42
+  - first:
+      213: 2007243279461532507
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_43
+  - first:
+      213: 309810855557617174
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_44
+  - first:
+      213: 4342830445461991984
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_45
+  - first:
+      213: 8317558229163893292
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_46
+  - first:
+      213: -2337023780621342743
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_47
+  - first:
+      213: -2669617310965143628
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_48
+  - first:
+      213: 4234631532008737918
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_49
+  - first:
+      213: 1946106548631811007
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_50
+  - first:
+      213: 1741572639031544067
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_51
+  - first:
+      213: 1893912971845763353
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_52
+  - first:
+      213: 7257589509487178492
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_53
+  - first:
+      213: 8830704494511679516
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_54
+  - first:
+      213: -7621323380122484752
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_55
+  - first:
+      213: 649135139061705413
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_56
+  - first:
+      213: 1367676865750832947
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_57
+  - first:
+      213: -9010692538446521682
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_58
+  - first:
+      213: 9202879517736866244
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_59
+  - first:
+      213: -2210858889349808306
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_60
+  - first:
+      213: 7859857266730371364
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_61
+  - first:
+      213: -4796626619329496490
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_62
+  - first:
+      213: 2861887791035984136
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_63
+  - first:
+      213: 6578730850180761132
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_64
+  - first:
+      213: -3986895455065259905
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_65
+  - first:
+      213: -3583271320284259043
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_66
+  - first:
+      213: 2936919645487177567
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_67
+  - first:
+      213: -7348093749828777119
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_68
+  - first:
+      213: 581172793270380025
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_69
+  - first:
+      213: -3345645109262287659
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_70
+  - first:
+      213: -2028612745052804508
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_71
+  - first:
+      213: -3398908718603897785
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_72
+  - first:
+      213: 8372848358952614382
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_73
+  - first:
+      213: -4052263028014677254
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_74
+  - first:
+      213: -8718492370105735416
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_75
+  - first:
+      213: 5323391743293796985
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_76
+  - first:
+      213: -8170143946627446851
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_77
+  - first:
+      213: -549800672197353869
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_78
+  - first:
+      213: -176380276592568834
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_79
+  - first:
+      213: 1533959936486143834
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_80
+  - first:
+      213: -1118424521165505259
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_81
+  - first:
+      213: 4656121346285424748
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_82
+  - first:
+      213: 1249460160722057551
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_83
+  - first:
+      213: 998776528887064590
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_84
+  - first:
+      213: 4952838093489477762
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_85
+  - first:
+      213: 4636162666930802076
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_86
+  - first:
+      213: -7925418884846002960
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_87
+  - first:
+      213: 4375808367021174971
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+      - Fish Head (Showdown) 1_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1240
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75379d15b1353db20800000000000000
+      internalID: 3157959140519277399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1206
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a970a02b9fc5b3c0800000000000000
+      internalID: -4344338000354707035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1172
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e7a55670545b60800000000000000
+      internalID: 7733894929275414917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1140
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5667376, y: 0.3519418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef15431c0d109580800000000000000
+      internalID: -8822519732318691355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1137
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47251976, y: 0.46231282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575194322d34c7f0800000000000000
+      internalID: -593282033785940139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1140
+        width: 33
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4276708, y: 0.4480191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed381cdad82fbe0800000000000000
+      internalID: -1444936753017004494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1141
+        width: 34
+        height: 27
+      alignment: 9
+      pivot: {x: 0.41871375, y: 0.3278492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d02f2ab2113af320800000000000000
+      internalID: 2592438492007964885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1137
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5039258, y: 0.46231282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4f413f21594e0a0800000000000000
+      internalID: -6853188824330865474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1140
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.52747965, y: 0.4436835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4957e17c3d092c2c0800000000000000
+      internalID: -4412805445616503404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1103
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f0cdaf295c93400800000000000000
+      internalID: 304491684888842091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1065
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dea4b3a127aaddf0800000000000000
+      internalID: -154627474268573996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1031
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c010ba00f40eaa2f0800000000000000
+      internalID: -960708940571934452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 992
+        width: 36
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5529996, y: 0.50795287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f3434ef991dac40800000000000000
+      internalID: 5525100492372590467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 995
+        width: 46
+        height: 28
+      alignment: 9
+      pivot: {x: 0.28224215, y: 0.47870746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed02063216c746480800000000000000
+      internalID: -8906857406384824098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 995
+        width: 34
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5385805, y: 0.4958917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca15ffce86f2ca680800000000000000
+      internalID: -8742560648933715540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_15
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 995
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a22a5e0f27f47f0800000000000000
+      internalID: -626155444210882026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 959
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1239d6fecb38ec0800000000000000
+      internalID: -3565798743425736210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 925
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028730bc2c16d4c0800000000000000
+      internalID: -4263189018999029248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 925
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa486c18a24422fb0800000000000000
+      internalID: -4674098513900567377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 913
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cfb212debd58920800000000000000
+      internalID: 2992039338967825437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 913
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f70e5c5c7f76f0800000000000000
+      internalID: -684691882180611696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 913
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b75747e420c2000800000000000000
+      internalID: 12387434959829806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 913
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a50465b5d702e80800000000000000
+      internalID: -8205420689826489824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 911
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3121838e31ef640800000000000000
+      internalID: 5115548114833511338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 911
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3b0b9f00afcb90800000000000000
+      internalID: -7219375688765457732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 911
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b5262813e29f60800000000000000
+      internalID: 8039737977668483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 911
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e5503dc9cadbb0800000000000000
+      internalID: -4910390560577691144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9fa4daa5d58b680800000000000000
+      internalID: -8739132432876635670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2115b128b65ce0800000000000000
+      internalID: -1416742577850209323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da084942c889b5f0800000000000000
+      internalID: -740410295691244842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b65c56fe93e64d0800000000000000
+      internalID: -3139508189863253143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dfcc597c1892490800000000000000
+      internalID: -7770536987839365888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 909
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c4948f983af150800000000000000
+      internalID: 5907096119025124202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 894
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333580f759dff9dc0800000000000000
+      internalID: -3629903956114123981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 894
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c3fc736e6fc780800000000000000
+      internalID: -8660582184833007466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 883
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59091913c22f212c0800000000000000
+      internalID: -4462238009146634091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 883
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c6bb15407156800800000000000000
+      internalID: 604915032269745211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 866
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4535e9a592a00d030800000000000000
+      internalID: 3517322481706619732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 866
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ab854f121e3020800000000000000
+      internalID: 2323314383289819844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 840
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6357a72ea51a5df20800000000000000
+      internalID: 3446838501540787510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 841
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc405374efe9aa660800000000000000
+      internalID: 7397900152862999759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 807
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6319927, y: 0.40116724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efdb569d57c42250800000000000000
+      internalID: 5919075015040163813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 768
+        width: 86
+        height: 32
+      alignment: 9
+      pivot: {x: 0.49000207, y: 0.40595436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e5bc0294272a90800000000000000
+      internalID: -7338856858079862612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 767
+        width: 63
+        height: 30
+      alignment: 9
+      pivot: {x: 0.67060244, y: 0.45700684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53481ab0292bdb10800000000000000
+      internalID: 2007243279461532507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 770
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165219e45bac4400800000000000000
+      internalID: 309810855557617174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 730
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0327385e745d44c30800000000000000
+      internalID: 4342830445461991984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 696
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e0ff1427ed6370800000000000000
+      internalID: 8317558229163893292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ac6ce049319fd0800000000000000
+      internalID: -2337023780621342743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 612
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b760bd233d93fad0800000000000000
+      internalID: -2669617310965143628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8c0c31fe64ca30800000000000000
+      internalID: 4234631532008737918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 512
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3b2465895f10b10800000000000000
+      internalID: 1946106548631811007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c304861f4b2810800000000000000
+      internalID: 1741572639031544067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 445
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9110f5240d7884a10800000000000000
+      internalID: 1893912971845763353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2b59ed43328b460800000000000000
+      internalID: 7257589509487178492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 345
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1860df53f6fc8a70800000000000000
+      internalID: 8830704494511679516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 309
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff7b69e3ce9b3690800000000000000
+      internalID: -7621323380122484752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca2ffe38f0320900800000000000000
+      internalID: 649135139061705413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 309
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3371996fcd6faf210800000000000000
+      internalID: 1367676865750832947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad1a180e693f280800000000000000
+      internalID: -9010692538446521682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19c65992237bf70800000000000000
+      internalID: 9202879517736866244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3ac3cd837151e0800000000000000
+      internalID: -2210858889349808306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_61
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4298cb07a82d31d60800000000000000
+      internalID: 7859857266730371364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65abeaad085fe6db0800000000000000
+      internalID: -4796626619329496490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_63
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 302
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092ab378c777b720800000000000000
+      internalID: 2861887791035984136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 302
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c268de54ad85c4b50800000000000000
+      internalID: 6578730850180761132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 268
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70473405b3bba8c0800000000000000
+      internalID: -3986895455065259905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 268
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9c9c18b9a54ec0800000000000000
+      internalID: -3583271320284259043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 268
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f112b6bd802c820800000000000000
+      internalID: 2936919645487177567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 268
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b00399aa3560a90800000000000000
+      internalID: -7348093749828777119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 230
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a008839db01800800000000000000
+      internalID: 581172793270380025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.61805266, y: 0.36290258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf5e5cf71e191d0800000000000000
+      internalID: -3345645109262287659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 188
+        width: 35
+        height: 38
+      alignment: 9
+      pivot: {x: 0.63858336, y: 0.34399295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2c48d47be8d3e0800000000000000
+      internalID: -2028612745052804508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4687424, y: 0.50321734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f2a35786a4d0d0800000000000000
+      internalID: -3398908718603897785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_73
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 149
+        width: 33
+        height: 31
+      alignment: 9
+      pivot: {x: 0.39391303, y: 0.5035302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee93591a835523470800000000000000
+      internalID: 8372848358952614382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 151
+        width: 40
+        height: 26
+      alignment: 9
+      pivot: {x: 0.32495612, y: 0.5967014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af28cbeee3873c7c0800000000000000
+      internalID: -4052263028014677254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807e4e6c161b10780800000000000000
+      internalID: -8718492370105735416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 100
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9723643069c70e940800000000000000
+      internalID: 5323391743293796985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db786792e51dd9e80800000000000000
+      internalID: -8170143946627446851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_78
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed76c9337be58f0800000000000000
+      internalID: -549800672197353869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5905ca21f5d8df0800000000000000
+      internalID: -176380276592568834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57ffe95f68b94510800000000000000
+      internalID: 1533959936486143834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df7dbd2de8a70f0800000000000000
+      internalID: -1118424521165505259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d47cf1bddd9040800000000000000
+      internalID: 4656121346285424748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4937d07569f65110800000000000000
+      internalID: 1249460160722057551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08af4616fd5cdd00800000000000000
+      internalID: 998776528887064590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_85
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288967831040cb440800000000000000
+      internalID: 4952838093489477762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_86
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d8653d165f65040800000000000000
+      internalID: 4636162666930802076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_87
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd490d381430290800000000000000
+      internalID: -7925418884846002960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown
+        - Fish Head (Showdown) 1_88
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ba79968ef9bc30800000000000000
+      internalID: 4375808367021174971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d74f13cd4cff7394d84a31d6441e3e9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_0: 3157959140519277399
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_1: -4344338000354707035
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_10: -154627474268573996
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_11: -960708940571934452
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_12: 5525100492372590467
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_13: -8906857406384824098
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_14: -8742560648933715540
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_15: -626155444210882026
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_16: -3565798743425736210
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_17: -4263189018999029248
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_18: -4674098513900567377
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_19: 2992039338967825437
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_2: 7733894929275414917
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_20: -684691882180611696
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_21: 12387434959829806
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_22: -8205420689826489824
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_23: 5115548114833511338
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_24: -7219375688765457732
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_25: 8039737977668483421
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_26: -4910390560577691144
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_27: -8739132432876635670
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_28: -1416742577850209323
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_29: -740410295691244842
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_3: -8822519732318691355
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_30: -3139508189863253143
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_31: -7770536987839365888
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_32: 5907096119025124202
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_33: -3629903956114123981
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_34: -8660582184833007466
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_35: -4462238009146634091
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_36: 604915032269745211
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_37: 3517322481706619732
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_38: 2323314383289819844
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_39: 3446838501540787510
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_4: -593282033785940139
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_40: 7397900152862999759
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_41: 5919075015040163813
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_42: -7338856858079862612
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_43: 2007243279461532507
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_44: 309810855557617174
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_45: 4342830445461991984
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_46: 8317558229163893292
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_47: -2337023780621342743
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_48: -2669617310965143628
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_49: 4234631532008737918
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_5: -1444936753017004494
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_50: 1946106548631811007
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_51: 1741572639031544067
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_52: 1893912971845763353
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_53: 7257589509487178492
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_54: 8830704494511679516
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_55: -7621323380122484752
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_56: 649135139061705413
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_57: 1367676865750832947
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_58: -9010692538446521682
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_59: 9202879517736866244
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_6: 2592438492007964885
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_60: -2210858889349808306
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_61: 7859857266730371364
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_62: -4796626619329496490
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_63: 2861887791035984136
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_64: 6578730850180761132
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_65: -3986895455065259905
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_66: -3583271320284259043
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_67: 2936919645487177567
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_68: -7348093749828777119
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_69: 581172793270380025
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_7: -6853188824330865474
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_70: -3345645109262287659
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_71: -2028612745052804508
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_72: -3398908718603897785
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_73: 8372848358952614382
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_74: -4052263028014677254
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_75: -8718492370105735416
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_76: 5323391743293796985
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_77: -8170143946627446851
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_78: -549800672197353869
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_79: -176380276592568834
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_8: -4412805445616503404
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_80: 1533959936486143834
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_81: -1118424521165505259
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_82: 4656121346285424748
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_83: 1249460160722057551
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_84: 998776528887064590
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_85: 4952838093489477762
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_86: 4636162666930802076
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_87: -7925418884846002960
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_88: 4375808367021174971
+      PC _ Computer - Shovel Knight_ Treasure Trove - Shovel Knight Showdown - Fish Head (Showdown) 1_9: 304491684888842091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

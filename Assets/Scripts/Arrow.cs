@@ -1,0 +1,30 @@
+using UnityEngine;
+
+public class Arrow : MonoBehaviour
+{
+    private Animator animator;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        Destroy(this.gameObject, 8f);
+        animator.SetTrigger("Arrow");
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            if (collision.gameObject.GetComponent<Player>() != null)
+            {
+                collision.gameObject.GetComponent<Player>().TakeDamage(1);
+                Destroy(this.gameObject);
+            }
+        }
+    }
+}

@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: f127622fff2acf241a3919c1529cb52a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1253789170948609458
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_0
+  - first:
+      213: 6657322635917042849
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_1
+  - first:
+      213: -1625727301820849514
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_2
+  - first:
+      213: 8392213098123064904
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_3
+  - first:
+      213: 5835317696141251886
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_4
+  - first:
+      213: 2932440233727081648
+    second: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a60625465a99ee0800000000000000
+      internalID: -1253789170948609458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 21
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4a0055aaf836c50800000000000000
+      internalID: 6657322635917042849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 21
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6926059e1a14079e0800000000000000
+      internalID: -1625727301820849514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84671015951277470800000000000000
+      internalID: 8392213098123064904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25dc0e17863bf050800000000000000
+      internalID: 5835317696141251886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcbd581bde12b820800000000000000
+      internalID: 2932440233727081648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_0: -1253789170948609458
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_1: 6657322635917042849
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_2: -1625727301820849514
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_3: 8392213098123064904
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_4: 5835317696141251886
+      PC _ Computer - Shovel Knight_ Treasure Trove - Enemies - Beeto_5: 2932440233727081648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

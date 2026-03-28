@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Stage
+  - Arrow
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4130972981
+    locked: 0
+  - name: Background1
+    uniqueID: 3585515155
+    locked: 0
+  - name: Background2
+    uniqueID: 3804137327
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2413389011
+    locked: 0
+  - name: Grass
+    uniqueID: 2244090885
+    locked: 0
+  - name: Ground
+    uniqueID: 2044606965
+    locked: 0
+  m_RenderingLayers:
+  - Default
