@@ -54,6 +54,12 @@ public class Enemy3 : MonoBehaviour
         DetectingGround();
         BoxColliderDetection();
 
+        if (GameObject.Find("Player") == null)
+        {
+            animator.SetBool("Attack", false);
+
+        }
+
         if (isEnemyDead)
         {
             return;
@@ -73,6 +79,7 @@ public class Enemy3 : MonoBehaviour
                 if (Time.time >= lastAttackTime + attackCooldown)
                 {
                     animator.SetBool("Attack", true);
+                    FindAnyObjectByType<AudioManager>().PlayAttackSound();
                 }
                 else
                 {
@@ -103,7 +110,7 @@ public class Enemy3 : MonoBehaviour
         {
             maxHealth -= damageAmount;
             animator.SetTrigger("Hurt");
-            
+            FindAnyObjectByType<AudioManager>().PlayHurtSound();
         } else
         {
             Die();
@@ -120,6 +127,7 @@ public class Enemy3 : MonoBehaviour
         Destroy(this.gameObject, 5f);
         Debug.Log(this.gameObject.name + "Dead");
         animator.SetBool("Death", true);
+        FindAnyObjectByType<AudioManager>().PlayHurtSound();
     }
 
     void FlipEnemyInPlayerDirection()

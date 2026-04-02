@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: ef6e759dbacdaaa41892e2b19e04b905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8190278845763496274
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_0
+  - first:
+      213: 477910185477445315
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_1
+  - first:
+      213: -7656400554758433409
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_2
+  - first:
+      213: 2611338232535828311
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_3
+  - first:
+      213: -1489169588061553074
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_4
+  - first:
+      213: 6472079634489282400
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_5
+  - first:
+      213: -6346461376363862521
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_6
+  - first:
+      213: -2492329838146781678
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_7
+  - first:
+      213: 4683021413921162215
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_8
+  - first:
+      213: 8486066497207726795
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_9
+  - first:
+      213: 7146082301680944431
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_10
+  - first:
+      213: 372912747152863769
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_11
+  - first:
+      213: -2694716321242346727
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_12
+  - first:
+      213: -3322618270003541738
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_13
+  - first:
+      213: -7264291050616180135
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_14
+  - first:
+      213: -7975901756778878087
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_15
+  - first:
+      213: -6014210331197077440
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_16
+  - first:
+      213: -3259134196117819507
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_17
+  - first:
+      213: -4863158096867076216
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_18
+  - first:
+      213: 5646902413563673494
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_19
+  - first:
+      213: -425969086265340996
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_20
+  - first:
+      213: 2722793813777593457
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_21
+  - first:
+      213: -9192113448739320097
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_22
+  - first:
+      213: -7913123544523616823
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_23
+  - first:
+      213: -5952874852586808000
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_24
+  - first:
+      213: -7868895662298087048
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_25
+  - first:
+      213: 3894010009207845704
+    second: Custom _ Edited - Castlevania Customs - Objects - Torch_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ded2a8c8465e80800000000000000
+      internalID: -8190278845763496274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69ce718c0e1a600800000000000000
+      internalID: 477910185477445315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f751583c2400fb590800000000000000
+      internalID: -7656400554758433409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c1ba79465d3420800000000000000
+      internalID: 2611338232535828311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb64d4628655be0800000000000000
+      internalID: -1489169588061553074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f06c3132271d950800000000000000
+      internalID: 6472079634489282400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7066811d007dce7a0800000000000000
+      internalID: -6346461376363862521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e77269737796dd0800000000000000
+      internalID: -2492329838146781678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 331
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d2c9c38987c784593a859d64a0d3b3
+      internalID: 4683021413921162215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 201
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c15ae83156d74f842027a5c03c862
+      internalID: 8486066497207726795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 201
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c693c6096e0e48b396ea69dc56767
+      internalID: 7146082301680944431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 201
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e81a86ed66b2b41ac36976dbf26c3f
+      internalID: 372912747152863769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 201
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e0ac613150dd42a262f1c192453ff
+      internalID: -2694716321242346727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee912673e9dff42a87c89c8bafc717
+      internalID: -3322618270003541738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 136
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c32f3e4fcecf4748a834107e3942a8c
+      internalID: -7264291050616180135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1014640189c4404a9cc711d7d84d7eb
+      internalID: -7975901756778878087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Castlevania Customs - Objects - Torch_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0590a55e6d174ab6f533cdb423208
+      internalID: -6014210331197077440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7adbcb579666fb2429212e8d824c3163
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":1.0},"gridSpriteSize":{"x":31.0,"y":65.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Custom _ Edited - Castlevania Customs - Objects - Torch_0: -8190278845763496274
+      Custom _ Edited - Castlevania Customs - Objects - Torch_1: 477910185477445315
+      Custom _ Edited - Castlevania Customs - Objects - Torch_10: 7146082301680944431
+      Custom _ Edited - Castlevania Customs - Objects - Torch_11: 372912747152863769
+      Custom _ Edited - Castlevania Customs - Objects - Torch_12: -2694716321242346727
+      Custom _ Edited - Castlevania Customs - Objects - Torch_13: -3322618270003541738
+      Custom _ Edited - Castlevania Customs - Objects - Torch_14: -7264291050616180135
+      Custom _ Edited - Castlevania Customs - Objects - Torch_15: -7975901756778878087
+      Custom _ Edited - Castlevania Customs - Objects - Torch_16: -6014210331197077440
+      Custom _ Edited - Castlevania Customs - Objects - Torch_2: -7656400554758433409
+      Custom _ Edited - Castlevania Customs - Objects - Torch_3: 2611338232535828311
+      Custom _ Edited - Castlevania Customs - Objects - Torch_4: -1489169588061553074
+      Custom _ Edited - Castlevania Customs - Objects - Torch_5: 6472079634489282400
+      Custom _ Edited - Castlevania Customs - Objects - Torch_6: -6346461376363862521
+      Custom _ Edited - Castlevania Customs - Objects - Torch_7: -2492329838146781678
+      Custom _ Edited - Castlevania Customs - Objects - Torch_8: 4683021413921162215
+      Custom _ Edited - Castlevania Customs - Objects - Torch_9: 8486066497207726795
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

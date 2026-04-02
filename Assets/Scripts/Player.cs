@@ -3,9 +3,13 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public Rigidbody2D rb;
+    [SerializeField] private GameObject mobileUI;
 
     [Header("Health")]
     public int maxHealth = 5;
+    [SerializeField] private GameObject explosionPrefab;
+    [SerializeField] private Transform spawnPoint;
+    [SerializeField] private GameObject collectEffect;
 
     [Header("Movement")]
     private float movement;
@@ -21,6 +25,7 @@ public class Player : MonoBehaviour
 
     private bool isGround;
     private bool facingRight = true;
+    private GameOver gameOver;
 
     [Header("Ground Check")]
     public Transform groundCheckPoint;
@@ -33,6 +38,7 @@ public class Player : MonoBehaviour
         isGround = true;
         facingRight = true;
         animator = this.gameObject.GetComponent<Animator>();
+        gameOver = FindAnyObjectByType<GameOver>();
     }
 
     // Update is called once per frame
@@ -41,6 +47,12 @@ public class Player : MonoBehaviour
         movement = Input.GetAxis("Horizontal");
         Facing();
         PlayAnimationRun();
+
+        if (gameOver.isPlayerWon)
+        {
+            movement = 0f;
+            return;
+        }
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -102,7 +114,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    void Jump()
+    public void Jump()
     {
         if (isGround == true)
         {
@@ -111,16 +123,23 @@ public class Player : MonoBehaviour
             rb.linearVelocity = velocity;
             isGround = false;
             animator.SetBool("Jump", true);
+            FindAnyObjectByType<AudioManager>().PlayJumpSound();
         }
     }
 
     public void TakeDamage(int damageAmount)
     {
+        if (gameOver.isPlayerWon)
+        {
+            return;
+        }
+
         if (maxHealth != 0)
         {
             maxHealth -= damageAmount;
             animator.SetTrigger("Damaged");
             FindAnyObjectByType<Camera>().Shake(0.2f, 4f);
+            FindAnyObjectByType<AudioManager>().PlayHurtSound();
         } else
         {
             Die();
@@ -130,6 +149,12 @@ public class Player : MonoBehaviour
     void Die()
     {
         Debug.Log(this.gameObject.name + "died");
+        GameObject tempExplosionPrefab = Instantiate(explosionPrefab, spawnPoint.position, Quaternion.identity);
+        Destroy(tempExplosionPrefab, 0.5f);
+        FindAnyObjectByType<AudioManager>().PlayDiedSound();
+        FindAnyObjectByType<GameOver>().TriggerGameOverBG();
+        FindAnyObjectByType<Camera>().Shake(0.17f, 4f);
+        Destroy(this.gameObject);
     }
 
     void PlayAnimationRun()
@@ -143,9 +168,26 @@ public class Player : MonoBehaviour
         }
     }
 
-    void PlayAnimationAttack()
+    public void PlayAnimationAttack()
     {
         animator.SetTrigger("Attack1");
+        FindAnyObjectByType<AudioManager>().PlayAttackSound();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Diamond")
+        {
+            mobileUI.SetActive(false);
+
+            Debug.Log("Trigger Victory");
+            gameOver.isPlayerWon = true;
+            gameOver.TriggerVictoryBG();
+            GameObject tempCollectEffect = Instantiate(collectEffect, spawnPoint.position, Quaternion.identity);
+            Destroy(tempCollectEffect, 0.5f);
+            Destroy(collision.gameObject);
+            FindAnyObjectByType<AudioManager>().PlayCollectDiamondSound();
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

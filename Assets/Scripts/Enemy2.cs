@@ -73,6 +73,8 @@ public class Enemy2 : MonoBehaviour
     {
         GameObject tempArrowPrefab = Instantiate(arrowPrefab, spawnPoint.position, spawnPoint.rotation);
         tempArrowPrefab.gameObject.GetComponent<Rigidbody2D>().linearVelocity = x_Velocity * (-spawnPoint.right);
+
+        FindAnyObjectByType<AudioManager>().PlayProjectileSound();
     }
 
     public void TakeDamage(int damageAmount)
@@ -81,6 +83,7 @@ public class Enemy2 : MonoBehaviour
         {
             maxHealth -= damageAmount;
             animator.SetTrigger("Hurt");
+            FindAnyObjectByType<AudioManager>().PlayHurtSound();
         } else
         {
             Die();
@@ -106,5 +109,6 @@ public class Enemy2 : MonoBehaviour
         Destroy(this.gameObject, 5f);
         Debug.Log(this.gameObject + " Dead");
         animator.SetBool("Death", true);
+        FindAnyObjectByType<AudioManager>().PlayHurtSound();
     }
 }

@@ -76,6 +76,8 @@ GameObject:
   - component: {fileID: 8462081119324722700}
   - component: {fileID: 8828091906493486008}
   - component: {fileID: 891748589148359473}
+  - component: {fileID: 8274659233455290892}
+  - component: {fileID: 3840237456360359428}
   m_Layer: 6
   m_Name: Character 1
   m_TagString: Player
@@ -98,6 +100,7 @@ Transform:
   m_Children:
   - {fileID: 4401522004323848184}
   - {fileID: 8135340539559061872}
+  - {fileID: 6771783147141290878}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &8478384134708582785
@@ -184,7 +187,7 @@ Rigidbody2D:
   m_Interpolate: 1
   m_SleepingMode: 1
   m_CollisionDetection: 1
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &8462081119324722700
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -267,6 +270,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Player
   rb: {fileID: 9081296572952743685}
   maxHealth: 5
+  explosionPrefab: {fileID: 2930045568890084015, guid: 1d4f2e80b25208c4fa79a9e156117a63, type: 3}
+  spawnPoint: {fileID: 6771783147141290878}
   jumpHeight: 15
   speed: 5
   attackPoint: {fileID: 8135340539559061872}
@@ -279,3 +284,62 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 8
+--- !u!114 &8274659233455290892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5802820769209618607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5bbceee760f5cf439c7f39b3e6f9610, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Firetrap
+  healthSlider: {fileID: 0}
+--- !u!114 &3840237456360359428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5802820769209618607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d52b2557ea8583d44bc46b7a71ce019b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Collectables
+  redGemText: {fileID: 0}
+  greenGemText: {fileID: 0}
+  collectEffect_Prefab: {fileID: 3620750877098564130, guid: bd2cd4cd91e958c4ab4f5a97e37b416e, type: 3}
+--- !u!1 &9196526274604275173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6771783147141290878}
+  m_Layer: 6
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6771783147141290878
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9196526274604275173}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2678566945998366357}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

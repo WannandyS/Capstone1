@@ -6,7 +6,9 @@ public class Arrow : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Destroy(this.gameObject, 8f);
+        animator = GetComponent<Animator>();
+
+        Destroy(this.gameObject, 3f);
         animator.SetTrigger("Arrow");
     }
 

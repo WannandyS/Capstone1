@@ -31,6 +31,7 @@ public class Collectables : MonoBehaviour
                 GameObject tempEffectPrefab = Instantiate(collectEffect_Prefab, collision.gameObject.transform.position, Quaternion.identity);
                 Destroy(tempEffectPrefab, 0.8f);
                 Destroy(collision.gameObject);
+                FindAnyObjectByType<AudioManager>().PlayCollectHPSound();
             } else
             {
                 Debug.Log("Already max limit");
@@ -42,8 +43,9 @@ public class Collectables : MonoBehaviour
             currentRed_Gem++;
             redGemText.text = currentRed_Gem.ToString();
             GameObject tempCollectEffect = Instantiate(collectEffect_Prefab, collision.gameObject.transform.position, Quaternion.identity);
-            Destroy(tempCollectEffect, 0.8f);
+            Destroy(tempCollectEffect, 0.5f);
             Destroy(collision.gameObject);
+            FindAnyObjectByType<AudioManager>().PlayCollectGemSound();
         }
 
         if (collision.gameObject.tag == "Green_Gem")
@@ -51,8 +53,9 @@ public class Collectables : MonoBehaviour
             currentGreen_Gem++;
             greenGemText.text = currentGreen_Gem.ToString();
             GameObject tempCollectEffect = Instantiate(collectEffect_Prefab, collision.gameObject.transform.position, Quaternion.identity);
-            Destroy(tempCollectEffect, 0.8f);
+            Destroy(tempCollectEffect, 0.5f);
             Destroy(collision.gameObject);
+            FindAnyObjectByType<AudioManager>().PlayCollectGemSound();
         }
     }
 }
